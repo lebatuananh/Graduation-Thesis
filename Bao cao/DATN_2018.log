@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.24)  25 DEC 2018 17:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.25)  26 DEC 2018 00:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1307,7 +1307,7 @@ LaTeX Info: Redefining \nameref on input line 84.
 
 \c@lstlisting=\count340
  (./bia.tex
-<image/logobk.png, id=188, 761.84625pt x 1135.24126pt>
+<image/logobk.png, id=205, 761.84625pt x 1135.24126pt>
 File: image/logobk.png Graphic file (type png)
 <use image/logobk.png>
 Package pdftex.def Info: image/logobk.png  used on input line 16.
@@ -1612,19 +1612,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [7]
-<image/chayDotNet.png, id=395, 616.55344pt x 346.29375pt>
+<image/chayDotNet.png, id=421, 616.55344pt x 346.29375pt>
 File: image/chayDotNet.png Graphic file (type png)
 <use image/chayDotNet.png>
-Package pdftex.def Info: image/chayDotNet.png  used on input line 46.
+Package pdftex.def Info: image/chayDotNet.png  used on input line 47.
 (pdftex.def)             Requested size: 369.9349pt x 207.77785pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/kienTrucDotNetCore.png, id=397, 458.46281pt x 243.91125pt>
+<image/kienTrucDotNetCore.png, id=423, 458.46281pt x 243.91125pt>
 File: image/kienTrucDotNetCore.png Graphic file (type png)
 <use image/kienTrucDotNetCore.png>
-Package pdftex.def Info: image/kienTrucDotNetCore.png  used on input line 56.
+Package pdftex.def Info: image/kienTrucDotNetCore.png  used on input line 58.
 (pdftex.def)             Requested size: 412.61272pt x 219.51808pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1643,15 +1643,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [9 <./image/chayDotNet.png>]
-<image/kienTrucDotNet.png, id=408, 616.55344pt x 346.29375pt>
-File: image/kienTrucDotNet.png Graphic file (type png)
-<use image/kienTrucDotNet.png>
-Package pdftex.def Info: image/kienTrucDotNet.png  used on input line 82.
-(pdftex.def)             Requested size: 369.9349pt x 207.77785pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
@@ -1659,6 +1650,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [10 <./image/kienTrucDotNetCore.png>]
+<image/kienTrucDotNet.png, id=439, 616.55344pt x 346.29375pt>
+File: image/kienTrucDotNet.png Graphic file (type png)
+<use image/kienTrucDotNet.png>
+Package pdftex.def Info: image/kienTrucDotNet.png  used on input line 86.
+(pdftex.def)             Requested size: 369.9349pt x 207.77785pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
@@ -1680,89 +1677,38 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [13]
+<image/vongdoiMVC.png, id=455, 451.6875pt x 162.6075pt>
+File: image/vongdoiMVC.png Graphic file (type png)
+<use image/vongdoiMVC.png>
+Package pdftex.def Info: image/vongdoiMVC.png  used on input line 144.
+(pdftex.def)             Requested size: 451.68639pt x 162.6071pt.
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+Overfull \hbox (10.66866pt too wide) in paragraph at lines 144--145
+ [] 
+ []
 
-[14]
+<image/vongdoiMVCchitiet.png, id=457, 469.755pt x 285.31593pt>
+File: image/vongdoiMVCchitiet.png Graphic file (type png)
+<use image/vongdoiMVCchitiet.png>
+Package pdftex.def Info: image/vongdoiMVCchitiet.png  used on input line 155.
+(pdftex.def)             Requested size: 469.75386pt x 285.31523pt.
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[15]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[16]
-LaTeX Font Info:    Try loading font information for T5+cmtt on input line 187.
-
- (c:/texlive/2018/texmf-dist/tex/latex/vntex/t5cmtt.fd
-File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-
-Package microtype Warning: I cannot find a protrusion list for font
-(microtype)                `T5/cmtt/m/n/11.86258'. Switching off
-(microtype)                protrusion for this font on input line 187.
-
-) (./chapter3_new.tex
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[17]
-Ch\uhorn \ohorn ng 3.
-[18
-
-]
-<image/kientrucLoRa.jpg, id=456, 2472.23625pt x 1340.00626pt>
-File: image/kientrucLoRa.jpg Graphic file (type jpg)
-<use image/kientrucLoRa.jpg>
-Package pdftex.def Info: image/kientrucLoRa.jpg  used on input line 31.
-(pdftex.def)             Requested size: 370.81944pt x 200.99226pt.
-<image/hinh3_1.png, id=458, 977.90344pt x 422.32782pt>
-File: image/hinh3_1.png Graphic file (type png)
-<use image/hinh3_1.png>
-Package pdftex.def Info: image/hinh3_1.png  used on input line 42.
-(pdftex.def)             Requested size: 371.60718pt x 160.48624pt.
+Overfull \hbox (28.73613pt too wide) in paragraph at lines 155--156
+ [] 
+ []
 
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19]
+<image/vongdoiCore.png, id=459, 819.8128pt x 335.00156pt>
+File: image/vongdoiCore.png Graphic file (type png)
+<use image/vongdoiCore.png>
+Package pdftex.def Info: image/vongdoiCore.png  used on input line 166.
+(pdftex.def)             Requested size: 491.89146pt x 201.00247pt.
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[20 <./image/kientrucLoRa.jpg> <./image/hinh3_1.png>]
-<image/normal.jpg, id=470, 800.9925pt x 430.60875pt>
-File: image/normal.jpg Graphic file (type jpg)
-<use image/normal.jpg>
-Package pdftex.def Info: image/normal.jpg  used on input line 84.
-(pdftex.def)             Requested size: 320.39133pt x 172.24043pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[21]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 100.
+Overfull \hbox (50.87373pt too wide) in paragraph at lines 166--167
+ [] 
+ []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1773,7 +1719,73 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22 <./image/normal.jpg>]
+[14 <./image/vongdoiMVC.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15 <./image/vongdoiMVCchitiet.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16 <./image/vongdoiCore.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19]
+LaTeX Font Info:    Try loading font information for T5+cmtt on input line 238.
+
+ (c:/texlive/2018/texmf-dist/tex/latex/vntex/t5cmtt.fd
+File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+
+Package microtype Warning: I cannot find a protrusion list for font
+(microtype)                `T5/cmtt/m/n/11.86258'. Switching off
+(microtype)                protrusion for this font on input line 238.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
@@ -1794,8 +1806,91 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[25]
-<image/luong1.png, id=503, 441.65pt x 499.8675pt>
+[25]) (./chapter3_new.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26]
+Ch\uhorn \ohorn ng 3.
+[27
+
+]
+<image/kientrucLoRa.jpg, id=534, 2472.23625pt x 1340.00626pt>
+File: image/kientrucLoRa.jpg Graphic file (type jpg)
+<use image/kientrucLoRa.jpg>
+Package pdftex.def Info: image/kientrucLoRa.jpg  used on input line 31.
+(pdftex.def)             Requested size: 370.81944pt x 200.99226pt.
+<image/hinh3_1.png, id=536, 977.90344pt x 422.32782pt>
+File: image/hinh3_1.png Graphic file (type png)
+<use image/hinh3_1.png>
+Package pdftex.def Info: image/hinh3_1.png  used on input line 42.
+(pdftex.def)             Requested size: 371.60718pt x 160.48624pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29 <./image/kientrucLoRa.jpg> <./image/hinh3_1.png>]
+<image/normal.jpg, id=547, 800.9925pt x 430.60875pt>
+File: image/normal.jpg Graphic file (type jpg)
+<use image/normal.jpg>
+Package pdftex.def Info: image/normal.jpg  used on input line 84.
+(pdftex.def)             Requested size: 320.39133pt x 172.24043pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 100.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31 <./image/normal.jpg>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34]
+<image/luong1.png, id=581, 441.65pt x 499.8675pt>
 File: image/luong1.png Graphic file (type png)
 <use image/luong1.png>
 Package pdftex.def Info: image/luong1.png  used on input line 215.
@@ -1807,13 +1902,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26 <./image/luong1.png (PNG copy)>]
-<image/send_data.png, id=510, 445.665pt x 371.3875pt>
+[35 <./image/luong1.png (PNG copy)>]
+<image/send_data.png, id=588, 445.665pt x 371.3875pt>
 File: image/send_data.png Graphic file (type png)
 <use image/send_data.png>
 Package pdftex.def Info: image/send_data.png  used on input line 244.
 (pdftex.def)             Requested size: 216.1011pt x 180.08304pt.
-<image/resend_data.png, id=511, 494.84875pt x 422.57875pt>
+<image/resend_data.png, id=589, 494.84875pt x 422.57875pt>
 File: image/resend_data.png Graphic file (type png)
 <use image/resend_data.png>
 Package pdftex.def Info: image/resend_data.png  used on input line 246.
@@ -1825,28 +1920,49 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27]) (./chapter4.tex
+[36]) (./chapter4.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[28 <./image/send_data.png (PNG copy)> <./image/resend_data.png (PNG copy)>]
+[37 <./image/send_data.png (PNG copy)> <./image/resend_data.png (PNG copy)>]
 Ch\uhorn \ohorn ng 4.
-<image/receivePacket.png, id=525, 855.195pt x 423.08063pt>
+<image/receivePacket.png, id=604, 855.195pt x 423.08063pt>
 File: image/receivePacket.png Graphic file (type png)
 <use image/receivePacket.png>
 Package pdftex.def Info: image/receivePacket.png  used on input line 9.
 (pdftex.def)             Requested size: 342.07195pt x 169.22925pt.
-[29
+[38
 
  <./image/receivePacket.png>]
-<image/sendrate.png, id=534, 529.98pt x 377.15906pt>
+<image/sendrate.png, id=613, 529.98pt x 377.15906pt>
 File: image/sendrate.png Graphic file (type png)
 <use image/sendrate.png>
 Package pdftex.def Info: image/sendrate.png  used on input line 31.
 (pdftex.def)             Requested size: 264.98933pt x 188.57907pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[39 <./image/sendrate.png>]
+<image/KitBKRES_LoRa.jpg, id=625, 3981.87625pt x 2592.68625pt>
+File: image/KitBKRES_LoRa.jpg Graphic file (type jpg)
+<use image/KitBKRES_LoRa.jpg>
+Package pdftex.def Info: image/KitBKRES_LoRa.jpg  used on input line 59.
+(pdftex.def)             Requested size: 318.55661pt x 207.41913pt.
+<image/application.png, id=626, 1317.92375pt x 646.415pt>
+File: image/application.png Graphic file (type png)
+<use image/application.png>
+Package pdftex.def Info: image/application.png  used on input line 65.
+(pdftex.def)             Requested size: 395.38017pt x 193.926pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1857,33 +1973,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[30 <./image/sendrate.png>]
-<image/KitBKRES_LoRa.jpg, id=546, 3981.87625pt x 2592.68625pt>
-File: image/KitBKRES_LoRa.jpg Graphic file (type jpg)
-<use image/KitBKRES_LoRa.jpg>
-Package pdftex.def Info: image/KitBKRES_LoRa.jpg  used on input line 59.
-(pdftex.def)             Requested size: 318.55661pt x 207.41913pt.
-<image/application.png, id=547, 1317.92375pt x 646.415pt>
-File: image/application.png Graphic file (type png)
-<use image/application.png>
-Package pdftex.def Info: image/application.png  used on input line 65.
-(pdftex.def)             Requested size: 395.38017pt x 193.926pt.
-
+[40])
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[31 <./image/KitBKRES_LoRa.JPG>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[32 <./image/application.png (PNG copy)>]) (./Tongketdoan.tex [33])
-(./Tailieuthamkhao.tex [34
+[41 <./image/KitBKRES_LoRa.JPG>] (./Tongketdoan.tex [42 <./image/application.pn
+g (PNG copy)>]) (./Tailieuthamkhao.tex [43
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
@@ -1903,7 +2001,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 /.
  []
 
-) (./Phuluc.tex [35
+) (./Phuluc.tex [44
 
 ]
 
@@ -2241,7 +2339,7 @@ Package xcolor Warning: Incompatible color definition on input line 42.
 
 Package xcolor Warning: Incompatible color definition on input line 42.
 
-[36
+[45
 
 ]
 
@@ -2250,7 +2348,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[37]
+[46]
 
 Package xcolor Warning: Incompatible color definition on input line 53.
 
@@ -2425,7 +2523,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[38]
+[47]
 
 Package xcolor Warning: Incompatible color definition on input line 82.
 
@@ -2756,7 +2854,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[39]
+[48]
 
 Package xcolor Warning: Incompatible color definition on input line 114.
 
@@ -2988,7 +3086,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[40]
+[49]
 
 Package xcolor Warning: Incompatible color definition on input line 153.
 
@@ -3253,13 +3351,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[41]
+[50]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
  (./DATN_2018.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
 Package rerunfilecheck Info: File `DATN_2018.out' has not changed.
-(rerunfilecheck)             Checksum: 139F45F10543477667B2FB5E7993655C;7952.
+(rerunfilecheck)             Checksum: ADE14B1A34EB66ED4396074A8954FB16;8813.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3268,10 +3366,10 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 30461 strings out of 492649
- 497855 string characters out of 6133383
- 810651 words of memory out of 5000000
- 33560 multiletter control sequences out of 15000+600000
+ 30518 strings out of 492649
+ 498783 string characters out of 6133383
+ 810845 words of memory out of 5000000
+ 33590 multiletter control sequences out of 15000+600000
  573002 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,10n,58p,10418b,1891s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3285,10 +3383,10 @@ ve/2018/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2018/texmf-dist/
 fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/v
 nr/vnti12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vntt10.pfb><c:/
 texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on DATN_2018.pdf (59 pages, 5428907 bytes).
+Output written on DATN_2018.pdf (68 pages, 5586998 bytes).
 PDF statistics:
- 861 PDF objects out of 1000 (max. 8388607)
- 762 compressed objects within 8 object streams
- 293 named destinations out of 1000 (max. 500000)
- 28095 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 944 PDF objects out of 1000 (max. 8388607)
+ 832 compressed objects within 9 object streams
+ 317 named destinations out of 1000 (max. 500000)
+ 28142 words of extra memory for PDF output out of 29859 (max. 10000000)
 
