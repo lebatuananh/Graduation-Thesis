@@ -45,6 +45,6 @@
 \contentsline {subsubsection}{\numberline {3.2.2.3}Nh\IeC {\^a}n vi\IeC {\^e}n qu\IeC {\h a}n l\IeC {\'y}}{52}{subsubsection.3.2.2.3}
 \contentsline {subsubsection}{\numberline {3.2.2.4}Ng\IeC {\uhorn }\IeC {\`\ohorn }i v\IeC {\d \acircumflex }n chuy\IeC {\h \ecircumflex }n}{52}{subsubsection.3.2.2.4}
 \contentsline {subsection}{\numberline {3.2.3}Bi\IeC {\h \ecircumflex }u \IeC {\dj }\IeC {\`\ocircumflex } tu\IeC {\`\acircumflex }n t\IeC {\d \uhorn }(sequence diagram)}{53}{subsection.3.2.3}
-\contentsline {chapter}{K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n}{54}{chapter*.5}
-\contentsline {chapter}{T\IeC {\`a}i li\IeC {\d \ecircumflex }u tham kh\IeC {\h a}o}{54}{chapter*.5}
-\contentsline {chapter}{Ph\IeC {\d u} L\IeC {\d u}c}{56}{chapter*.7}
+\contentsline {chapter}{K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n}{55}{chapter*.5}
+\contentsline {chapter}{T\IeC {\`a}i li\IeC {\d \ecircumflex }u tham kh\IeC {\h a}o}{55}{chapter*.5}
+\contentsline {chapter}{Ph\IeC {\d u} L\IeC {\d u}c}{57}{chapter*.7}
