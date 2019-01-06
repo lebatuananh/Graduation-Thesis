@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.24)  4 JAN 2019 16:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.29)  6 JAN 2019 21:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,9 +6,9 @@ entering extended mode
 (./DATN_2018.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(c:/texlive/2018/texmf-dist/tex/latex/base/report.cls
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(c:/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -24,21 +24,21 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(c:/texlive/2018/texmf-dist/tex/latex/vntex/vietnam.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/vntex/vietnam.sty
 Package: vietnam 2009/07/12 v1.3 support for Vietnamese
 
-(c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-(c:/texlive/2018/texmf-dist/tex/latex/vntex/t5enc.def
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/vntex/t5enc.def
 File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
 Now handling font encoding T5 ...
 ... processing UTF-8 mapping file for font encoding T5
 
-(c:/texlive/2018/texmf-dist/tex/latex/vntex/t5enc.dfu
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/vntex/t5enc.dfu
 File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
    defining Unicode char U+00AB (decimal 171)
    defining Unicode char U+00BB (decimal 187)
@@ -194,46 +194,45 @@ File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
 ))
 LaTeX Font Info:    Try loading font information for T5+cmr on input line 105.
 
-(c:/texlive/2018/texmf-dist/tex/latex/vntex/t5cmr.fd
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/vntex/t5cmr.fd
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ))
-(c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 )
-(c:/texlive/2018/texmf-dist/tex/latex/vntex/vncaps.tex
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/vntex/vncaps.tex
 File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
 ))
-(c:/texlive/2018/texmf-dist/tex/latex/ucs/ucs.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/ucs/ucs.sty
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
-(c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-global.def
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-global.def
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count89
 \uc@combtoks=\toks16
 \uc@combtoksb=\toks17
 \uc@temptokena=\toks18
-)
-(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen103
 ))
-(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
 )
-(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count90
@@ -274,41 +273,39 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks24
 )
-(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
-
-(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
-)
-(c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box28
 \beforetitleunit=\skip46
@@ -320,11 +317,11 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen117
 \titlewidthfirst=\dimen118
 )
-(c:/texlive/2018/texmf-dist/tex/latex/algorithms/algorithm.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
-(c:/texlive/2018/texmf-dist/tex/latex/float/float.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count102
 \float@exts=\toks26
@@ -335,10 +332,12 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@every@algorithm=\toks28
 \c@algorithm=\count103
 )
-(c:/texlive/2018/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/algorithmicx/algpseudocod
+e.sty
 Package: algpseudocode 
 
-(c:/texlive/2018/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/algorithmicx/algorithmicx
+.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -354,10 +353,10 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip50
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (c:/texlive/2018/texmf-dist/tex/latex/tools/xr.sty
+) (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/tools/xr.sty
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
-(c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
 \MT@toks=\toks29
 \MT@count=\count111
@@ -366,7 +365,8 @@ LaTeX Info: Redefining \textls on input line 793.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
 \MT@listname@count=\count112
 
-(c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdfte
+x.def
 File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 913.
@@ -375,14 +375,13 @@ LaTeX Info: Redefining \lslig on input line 913.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
-))
-(c:/texlive/2018/texmf-dist/tex/latex/sectsty/sectsty.sty
+)) (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-(c:/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip52
 \subfigcapskip=\skip53
@@ -398,11 +397,10 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(c:/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip56
 \subfig@bottom=\skip57
-)
-(c:/texlive/2018/texmf-dist/tex/latex/tocloft/tocloft.sty
+) (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip58
@@ -446,17 +444,17 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftsubtabindent=\skip96
 \cftsubtabnumwidth=\skip97
 )
-(c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/03/24 v5.7 Page Geometry
 
-(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count117
@@ -472,14 +470,16 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen129
 \Gm@dimlist=\toks30
 )
-(c:/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 
-(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperre
+f.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic
+.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -518,29 +518,28 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen130
 \Hy@linkcounter=\count120
 \Hy@pagecounter=\count121
 
-(c:/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count122
 
-(c:/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4383.
-
-(c:/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -554,7 +553,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
 \c@Hy@tempcnt=\count123
 
-(c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -578,19 +577,19 @@ LaTeX Info: Redefining \pageref on input line 6443.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(c:/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
 \Fld@listcount=\count128
 \c@bookmark@seq@number=\count129
 
-(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.s
+ty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip98
-)
-(c:/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+) (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count130
 \calc@Bcount=\count131
@@ -603,7 +602,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count132
 \calc@Cskip=\skip101
 )
-(c:/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip102
@@ -616,26 +615,25 @@ s
 \f@nch@O@olf=\skip109
 \f@nch@O@orf=\skip110
 )
-(c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrextend.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/koma-script/scrextend.sty
 Package: scrextend 2018/03/30 v3.25 KOMA-Script package (extend other classes w
 ith features of KOMA-Script classes)
-
-(c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-(c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrbase.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/koma-script/scrbase.sty
 Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-(c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
 )))
 
 LaTeX Warning: Command \@footnotemark  has changed.
                Check if current package is valid.
 
-) (c:/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+) (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count133
 \lst@gtempboxa=\box31
 \lst@token=\toks31
@@ -649,35 +647,35 @@ LaTeX Warning: Command \@footnotemark  has changed.
 \lst@lineno=\count138
 \lst@maxwidth=\dimen139
 
-(c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count139
 \lst@skipnumbers=\count140
 \lst@framebox=\box32
 )
-(c:/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-(c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-(c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-(c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-(c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 )
-(c:/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
 \col@sep=\dimen140
 \ar@mcellbox=\box33
@@ -687,14 +685,14 @@ Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
 \backup@length=\skip112
 \ar@cellbox=\box34
 )
-(c:/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@colwidth=\skip113
 \multirow@cntb=\count141
 \multirow@dima=\skip114
 \bigstrutjot=\dimen142
 )
-(c:/texlive/2018/texmf-dist/tex/latex/tools/longtable.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip115
 \LTright=\skip116
@@ -712,68 +710,66 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count146
 \LT@p@ftn=\toks33
 )
-(c:/texlive/2018/texmf-dist/tex/latex/lipsum/lipsum.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count147
 )
-(c:/texlive/2018/texmf-dist/tex/latex/subfiles/subfiles.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2012/05/23 Federico Garcia
 
-(c:/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks34
 \verbatim@line=\toks35
 \verbatim@in@stream=\read1
 ))
-(c:/texlive/2018/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/glossaries/base/glossarie
+s.sty
 Package: glossaries 2018/04/07 v4.37 (NLCT)
-
-(c:/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+ (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(c:/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(c:/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks36
 \XKV@tempa@toks=\toks37
 )
 \XKV@depth=\count148
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(c:/texlive/2018/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+)) (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
 Package: mfirstuc 2017/11/14 v2.06 (NLCT)
 
-(c:/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count149
 )
 \@glsmfirst=\toks38
 \@glsmrest=\toks39
 )
-(c:/texlive/2018/texmf-dist/tex/latex/textcase/textcase.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 )
-(c:/texlive/2018/texmf-dist/tex/latex/xfor/xfor.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/xfor/xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
 )
-(c:/texlive/2018/texmf-dist/tex/latex/datatool/datatool-base.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/datatool/datatool-base.st
+y
 Package: datatool-base 2017/11/12 v2.29 (NLCT)
-
-(c:/texlive/2018/texmf-dist/tex/latex/substr/substr.sty
+ (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/substr/substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
 \c@su@anzahl=\count150
 )
-(c:/texlive/2018/texmf-dist/tex/latex/datatool/datatool-fp.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/datatool/datatool-fp.sty
 Package: datatool-fp 2017/11/12 v2.29 (NLCT)
 
-(c:/texlive/2018/texmf-dist/tex/latex/fp/fp.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/fp.sty
 Package: fp 1995/04/02
 
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-(c:/texlive/2018/texmf-dist/tex/latex/fp/defpattern.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
 \actioncount=\count151
 )
-(c:/texlive/2018/texmf-dist/tex/latex/fp/fp-basic.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
 \FP@xs=\count152
 \FP@xia=\count153
@@ -785,32 +781,32 @@ Package: fp-basic 1996/05/13
 \FP@regs=\count159
 \FP@times=\count160
 )
-(c:/texlive/2018/texmf-dist/tex/latex/fp/fp-addons.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
 )
-(c:/texlive/2018/texmf-dist/tex/latex/fp/fp-snap.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/fp-snap.sty
 Package: fp-snap 1995/04/05
 )
-(c:/texlive/2018/texmf-dist/tex/latex/fp/fp-exp.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/fp-exp.sty
 Package: fp-exp 1995/04/03
 )
-(c:/texlive/2018/texmf-dist/tex/latex/fp/fp-trigo.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/fp-trigo.sty
 Package: fp-trigo 1995/04/14
 )
-(c:/texlive/2018/texmf-dist/tex/latex/fp/fp-pas.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/fp-pas.sty
 Package: fp-pas 1994/08/29
 )
-(c:/texlive/2018/texmf-dist/tex/latex/fp/fp-random.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
 \FPseed=\count161
 )
-(c:/texlive/2018/texmf-dist/tex/latex/fp/fp-eqn.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
 )
-(c:/texlive/2018/texmf-dist/tex/latex/fp/fp-upn.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/fp-upn.sty
 Package: fp-upn 1996/10/21
 )
-(c:/texlive/2018/texmf-dist/tex/latex/fp/fp-eval.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks40
@@ -823,8 +819,8 @@ Package: fp-eval 1995/04/03
 \dtl@codeB=\count167
 \@dtl@foreach@level=\count168
 )
-(c:/texlive/2018/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-307
-.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/glossaries/base/glossarie
+s-compatible-307.sty
 Package: glossaries-compatible-307 2018/04/07 v4.37 (NLCT)
 )
 \gls@level=\count169
@@ -835,22 +831,27 @@ Package: glossaries-compatible-307 2018/04/07 v4.37 (NLCT)
 \glsshorttok=\toks44
 \glslongtok=\toks45
 
-(c:/texlive/2018/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/glossaries/styles/glossar
+y-hypernav.sty
 Package: glossary-hypernav 2018/04/07 v4.37 (NLCT)
 )
-(c:/texlive/2018/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/glossaries/styles/glossar
+y-list.sty
 Package: glossary-list 2018/04/07 v4.37 (NLCT)
 \glslistdottedwidth=\skip121
 )
-(c:/texlive/2018/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/glossaries/styles/glossar
+y-long.sty
 Package: glossary-long 2018/04/07 v4.37 (NLCT)
 \glsdescwidth=\skip122
 \glspagelistwidth=\skip123
 )
-(c:/texlive/2018/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/glossaries/styles/glossar
+y-super.sty
 Package: glossary-super 2018/04/07 v4.37 (NLCT)
 
-(c:/texlive/2018/texmf-dist/tex/latex/supertabular/supertabular.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/supertabular/supertabular
+.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \c@tracingst=\count170
 \ST@wd=\dimen144
@@ -869,14 +870,15 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \ST@dimen=\dimen154
 \ST@pbox=\box39
 ))
-(c:/texlive/2018/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/glossaries/styles/glossar
+y-tree.sty
 Package: glossary-tree 2018/04/07 v4.37 (NLCT)
 \glstreeindent=\skip127
 ))
-(c:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -891,14 +893,14 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(c:/texlive/2018/texmf-dist/tex/latex/mdframed/mdframed.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
 
-(c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.
+sty (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2018/03/05 L3 programming layer (loader) 
 
-(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2018/03/05 L3 programming layer (code)
 \c_max_int=\count171
 \l_tmpa_int=\count172
@@ -1042,7 +1044,7 @@ Package: expl3 2018/03/05 L3 programming layer (code)
 \l__coffin_scaled_total_height_dim=\dimen184
 \l__coffin_scaled_width_dim=\dimen185
 )
-(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count320
 ))
@@ -1053,10 +1055,9 @@ Package: xparse 2018/02/21 L3 Experimental document command parser
 \l__xparse_mandatory_args_int=\count324
 \l__xparse_v_nesting_int=\count325
 )
-(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
 Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
-
-(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/zref-base.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/oberdiek/zref-base.sty
 Package: zref-base 2016/05/21 v2.26 Module base for zref (HO)
 Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
@@ -1065,7 +1066,7 @@ Package zref Info: New property: page on input line 761.
 \c@abspage=\count326
 Package zref Info: New property: abspage on input line 62.
 )
-(c:/texlive/2018/texmf-dist/tex/latex/needspace/needspace.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip134
@@ -1110,7 +1111,7 @@ Package: needspace 2010/09/12 v1.3d reserve vertical space
 \mdf@subsubtitleinneraboveskip@length=\skip172
 \mdf@subsubtitleinnerbelowskip@length=\skip173
 
-(c:/texlive/2018/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
 \mdf@frametitlebox=\box55
@@ -1166,8 +1167,7 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \c@mdf@env@ii=\count331
 \c@mdf@zref@counter=\count332
 Package zref Info: New property: mdf@pagevalue on input line 895.
-)
-(c:/texlive/2018/texmf-dist/tex/latex/fancybox/fancybox.sty
+) (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/fancybox/fancybox.sty
 Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
@@ -1214,6 +1214,72 @@ LaTeX Warning: Label `long' multiply defined.
 
 LaTeX Warning: Label `long' multiply defined.
 
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `database' multiply defined.
+
+
+LaTeX Warning: Label `updateProduct' multiply defined.
+
+
+LaTeX Warning: Label `updateProduct' multiply defined.
+
+
+LaTeX Warning: Label `updateProduct' multiply defined.
+
+
+LaTeX Warning: Label `updateProduct' multiply defined.
+
 )
 \openout1 = `DATN_2018.aux'.
 
@@ -1235,14 +1301,15 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
 LaTeX Font Info:    ... okay on input line 84.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
 LaTeX Font Info:    ... okay on input line 84.
- (c:/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def
+ (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 \T5\~-\i already defined.
 \T5\`-\i already defined.
 \T5\'-\i already defined.
 
 fontencoding T5 patched
-) (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+)
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count333
 \scratchdimen=\dimen187
@@ -1255,10 +1322,11 @@ fontencoding T5 patched
 \MPnumerator=\count337
 \makeMPintoPDFobject=\count338
 \everyMPtoPDFconversion=\toks51
-) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+)
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.st
+y
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+ (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1268,7 +1336,8 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.
+cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -1283,7 +1352,7 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-(c:/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
@@ -1323,10 +1392,11 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 
 \AtBeginShipoutBox=\box63
 Package hyperref Info: Link coloring OFF on input line 84.
-(c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring
+.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count339
@@ -1334,38 +1404,37 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 84.
 LaTeX Info: Redefining \pageref on input line 84.
 LaTeX Info: Redefining \nameref on input line 84.
-
-(./DATN_2018.out) (./DATN_2018.out)
+ (./DATN_2018.out) (./DATN_2018.out)
 \@outlinefile=\write4
 \openout4 = `DATN_2018.out'.
 
 \c@lstlisting=\count340
  (./bia.tex
-<image/logobk.png, id=160, 761.84625pt x 1135.24126pt>
+<image/logobk.png, id=184, 761.84625pt x 1135.24126pt>
 File: image/logobk.png Graphic file (type png)
 <use image/logobk.png>
 Package pdftex.def Info: image/logobk.png  used on input line 16.
 (pdftex.def)             Requested size: 79.37996pt x 118.2771pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 40.
 
-(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-(c:/texlive/2018/texmf-dist/tex/latex/microtype/mt-msa.cfg
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 40.
 
-(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(c:/texlive/2018/texmf-dist/tex/latex/microtype/mt-msb.cfg
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)) [1
+))
+[1
 
-{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image/logobk.
-png>]
-(./bialot.tex
+{e:/SOFTWARE/Latext/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} 
+<./image/logobk.png>] (./bialot.tex
 File: image/logobk.png Graphic file (type png)
 <use image/logobk.png>
 Package pdftex.def Info: image/logobk.png  used on input line 16.
@@ -1498,7 +1567,7 @@ Underfull \hbox (badness 10000) detected at line 43
 ]) [6] (./Tomtatbaocao.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 9.
 
-(c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+(e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <13> not available
@@ -1547,11 +1616,11 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
 \tf@lof=\write6
 \openout6 = `DATN_2018.lof'.
 
- [13] (./DATN_2018.lot)
+ [13] (./DATN_2018.lot [14])
 \tf@lot=\write7
 \openout7 = `DATN_2018.lot'.
 
- [14]
+ [15]
 (./Danhmuccacthuatnguviettat.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--11
 []|\T5/cmr/bx/n/13 Kþ
@@ -1586,9 +1655,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []|\T5/cmr/m/n/13 Transmission Con-trol Pro-to-
  []
 
-[15
+[16
 
-]) [16] (./chapter1.tex
+]) [17] (./chapter1.tex
 Ch\uhorn \ohorn ng 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -1646,7 +1715,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [7]
-<image/chayDotNet.png, id=384, 616.55344pt x 346.29375pt>
+<image/chayDotNet.png, id=493, 616.55344pt x 346.29375pt>
 File: image/chayDotNet.png Graphic file (type png)
 <use image/chayDotNet.png>
 Package pdftex.def Info: image/chayDotNet.png  used on input line 47.
@@ -1655,7 +1724,7 @@ Package pdftex.def Info: image/chayDotNet.png  used on input line 47.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/kienTrucDotNetCore.png, id=386, 458.46281pt x 243.91125pt>
+<image/kienTrucDotNetCore.png, id=495, 458.46281pt x 243.91125pt>
 File: image/kienTrucDotNetCore.png Graphic file (type png)
 <use image/kienTrucDotNetCore.png>
 Package pdftex.def Info: image/kienTrucDotNetCore.png  used on input line 58.
@@ -1684,7 +1753,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [10 <./image/kienTrucDotNetCore.png>]
-<image/kienTrucDotNet.png, id=402, 616.55344pt x 346.29375pt>
+<image/kienTrucDotNet.png, id=511, 616.55344pt x 346.29375pt>
 File: image/kienTrucDotNet.png Graphic file (type png)
 <use image/kienTrucDotNet.png>
 Package pdftex.def Info: image/kienTrucDotNet.png  used on input line 86.
@@ -1711,7 +1780,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [13]
-<image/vongdoiMVC.png, id=418, 451.6875pt x 162.6075pt>
+<image/vongdoiMVC.png, id=527, 451.6875pt x 162.6075pt>
 File: image/vongdoiMVC.png Graphic file (type png)
 <use image/vongdoiMVC.png>
 Package pdftex.def Info: image/vongdoiMVC.png  used on input line 144.
@@ -1721,7 +1790,7 @@ Overfull \hbox (10.66866pt too wide) in paragraph at lines 144--145
  [] 
  []
 
-<image/vongdoiMVCchitiet.png, id=420, 469.755pt x 285.31593pt>
+<image/vongdoiMVCchitiet.png, id=529, 469.755pt x 285.31593pt>
 File: image/vongdoiMVCchitiet.png Graphic file (type png)
 <use image/vongdoiMVCchitiet.png>
 Package pdftex.def Info: image/vongdoiMVCchitiet.png  used on input line 155.
@@ -1734,7 +1803,7 @@ Overfull \hbox (28.73613pt too wide) in paragraph at lines 155--156
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/vongdoiCore.png, id=422, 819.8128pt x 335.00156pt>
+<image/vongdoiCore.png, id=531, 819.8128pt x 335.00156pt>
 File: image/vongdoiCore.png Graphic file (type png)
 <use image/vongdoiCore.png>
 Package pdftex.def Info: image/vongdoiCore.png  used on input line 166.
@@ -1791,7 +1860,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [19]
 LaTeX Font Info:    Try loading font information for T5+cmtt on input line 238.
 
- (c:/texlive/2018/texmf-dist/tex/latex/vntex/t5cmtt.fd
+ (e:/SOFTWARE/Latext/texlive/2018/texmf-dist/tex/latex/vntex/t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 
@@ -1866,7 +1935,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [29]
-<image/TongQuanHeThong.pdf, id=508, 592.61397pt x 231.264pt>
+<image/TongQuanHeThong.pdf, id=618, 592.61397pt x 231.264pt>
 File: image/TongQuanHeThong.pdf Graphic file (type pdf)
 <use image/TongQuanHeThong.pdf>
 Package pdftex.def Info: image/TongQuanHeThong.pdf  used on input line 49.
@@ -1889,7 +1958,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 pdfTeX warning: pdflatex.exe (file ./image/UseCaseTongQuanQTV.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<image/UseCaseTongQuanQTV.pdf, id=562, 823.15532pt x 388.08992pt>
+<image/UseCaseTongQuanQTV.pdf, id=671, 823.15532pt x 388.08992pt>
 File: image/UseCaseTongQuanQTV.pdf Graphic file (type pdf)
 <use image/UseCaseTongQuanQTV.pdf>
 Package pdftex.def Info: image/UseCaseTongQuanQTV.pdf  used on input line 73.
@@ -2002,7 +2071,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 pdfTeX warning: pdflatex.exe (file ./image/UseCaseTongQuanKH.pdf): PDF inclusio
 n: found PDF version <1.7>, but at most version <1.5> allowed
-<image/UseCaseTongQuanKH.pdf, id=670, 612.12692pt x 386.64452pt>
+<image/UseCaseTongQuanKH.pdf, id=780, 612.12692pt x 386.64452pt>
 File: image/UseCaseTongQuanKH.pdf Graphic file (type pdf)
 <use image/UseCaseTongQuanKH.pdf>
 Package pdftex.def Info: image/UseCaseTongQuanKH.pdf  used on input line 550.
@@ -2045,7 +2114,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 pdfTeX warning: pdflatex.exe (file ./image/UseCaseTongQuanNV.pdf): PDF inclusio
 n: found PDF version <1.7>, but at most version <1.5> allowed
-<image/UseCaseTongQuanNV.pdf, id=741, 568.04218pt x 180.675pt>
+<image/UseCaseTongQuanNV.pdf, id=850, 568.04218pt x 180.675pt>
 File: image/UseCaseTongQuanNV.pdf Graphic file (type pdf)
 <use image/UseCaseTongQuanNV.pdf>
 Package pdftex.def Info: image/UseCaseTongQuanNV.pdf  used on input line 706.
@@ -2054,7 +2123,7 @@ Package pdftex.def Info: image/UseCaseTongQuanNV.pdf  used on input line 706.
 
 pdfTeX warning: pdflatex.exe (file ./image/UseCaseTongQuanNVC.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<image/UseCaseTongQuanNVC.pdf, id=748, 479.87279pt x 146.7081pt>
+<image/UseCaseTongQuanNVC.pdf, id=857, 479.87279pt x 146.7081pt>
 File: image/UseCaseTongQuanNVC.pdf Graphic file (type pdf)
 <use image/UseCaseTongQuanNVC.pdf>
 Package pdftex.def Info: image/UseCaseTongQuanNVC.pdf  used on input line 724.
@@ -2076,9 +2145,1049 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[53]) (./chapter4.tex) (./Tongketdoan.tex [54]) (./Tailieuthamkhao.tex [55
+[53]
+
+pdfTeX warning: pdflatex.exe (file ./image/SquenceDiagramDN.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<image/SquenceDiagramDN.pdf, id=916, 722.33867pt x 499.77725pt>
+File: image/SquenceDiagramDN.pdf Graphic file (type pdf)
+<use image/SquenceDiagramDN.pdf>
+Package pdftex.def Info: image/SquenceDiagramDN.pdf  used on input line 753.
+(pdftex.def)             Requested size: 469.51457pt x 324.85136pt.
+
+Overfull \hbox (28.49684pt too wide) in paragraph at lines 753--754
+ [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[54 <./image/SquenceDiagramDN.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./image/SquenceDiagramDX.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<image/SquenceDiagramDX.pdf, id=950, 532.99126pt x 496.85625pt>
+File: image/SquenceDiagramDX.pdf Graphic file (type pdf)
+<use image/SquenceDiagramDX.pdf>
+Package pdftex.def Info: image/SquenceDiagramDX.pdf  used on input line 765.
+(pdftex.def)             Requested size: 373.09134pt x 347.797pt.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[55 <./image/SquenceDiagramDX.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./image/SquenceDiagramTM.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<image/SquenceDiagramTM.pdf, id=979, 731.73375pt x 492.33937pt>
+File: image/SquenceDiagramTM.pdf Graphic file (type pdf)
+<use image/SquenceDiagramTM.pdf>
+Package pdftex.def Info: image/SquenceDiagramTM.pdf  used on input line 777.
+(pdftex.def)             Requested size: 475.6213pt x 320.01678pt.
+
+Overfull \hbox (34.60358pt too wide) in paragraph at lines 777--778
+ [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[56 <./image/SquenceDiagramTM.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./image/SquenceDiagramS.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<image/SquenceDiagramS.pdf, id=1008, 740.7675pt x 496.85625pt>
+File: image/SquenceDiagramS.pdf Graphic file (type pdf)
+<use image/SquenceDiagramS.pdf>
+Package pdftex.def Info: image/SquenceDiagramS.pdf  used on input line 789.
+(pdftex.def)             Requested size: 481.49316pt x 322.95273pt.
+
+Overfull \hbox (40.47543pt too wide) in paragraph at lines 789--790
+ [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[57 <./image/SquenceDiagramS.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./image/SquenceDiagramX.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<image/SquenceDiagramX.pdf, id=1038, 740.7675pt x 496.85625pt>
+File: image/SquenceDiagramX.pdf Graphic file (type pdf)
+<use image/SquenceDiagramX.pdf>
+Package pdftex.def Info: image/SquenceDiagramX.pdf  used on input line 801.
+(pdftex.def)             Requested size: 481.49316pt x 322.95273pt.
+
+Overfull \hbox (40.47543pt too wide) in paragraph at lines 801--802
+ [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[58 <./image/SquenceDiagramX.pdf>]
+<image/E-RSystem.pdf, id=1067, 573.82379pt x 212.47379pt>
+File: image/E-RSystem.pdf Graphic file (type pdf)
+<use image/E-RSystem.pdf>
+Package pdftex.def Info: image/E-RSystem.pdf  used on input line 828.
+(pdftex.def)             Requested size: 372.98105pt x 138.10631pt.
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 837--866
+ [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[59 <./image/E-RSystem.pdf>]
+Overfull \hbox (37.59995pt too wide) in alignment at lines 869--880
+ [] [] [] 
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 883--892
+ [] [] [] 
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 895--914
+ [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[60]
+Underfull \hbox (badness 1895) in paragraph at lines 924--925
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 926--927
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 917--936
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 946--947
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 939--958
+ [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[61]
+Underfull \hbox (badness 1895) in paragraph at lines 970--971
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 961--974
+ [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[62]
+<image/E-REcomerce.pdf, id=1097, 590.44589pt x 392.42609pt>
+File: image/E-REcomerce.pdf Graphic file (type pdf)
+<use image/E-REcomerce.pdf>
+Package pdftex.def Info: image/E-REcomerce.pdf  used on input line 990.
+(pdftex.def)             Requested size: 413.3093pt x 274.69638pt.
+
+Underfull \hbox (badness 1895) in paragraph at lines 1008--1009
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 999--1039
+ [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[63 <./image/E-REcomerce.pdf>]
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1039--1044
+ [] [] [] 
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1046--1057
+ [] [] [] 
+ []
+
+
+Overfull \vbox (2.85234pt too high) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[64]
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1060--1095
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1105--1106
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1098--1111
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1121--1122
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1123--1124
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1125--1126
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1114--1129
+ [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[65]
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1132--1143
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1153--1154
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1155--1156
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1146--1157
+ [] [] [] 
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1160--1181
+ [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[66]
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1184--1193
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1203--1204
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1196--1211
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1239--1240
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1241--1242
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1214--1243
+ [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[67]
+Underfull \hbox (badness 1895) in paragraph at lines 1253--1254
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1255--1256
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1261--1262
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1263--1264
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1246--1265
+ [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[68]
+<image/E-RUtil.pdf, id=1134, 544.19307pt x 261.61742pt>
+File: image/E-RUtil.pdf Graphic file (type pdf)
+<use image/E-RUtil.pdf>
+Package pdftex.def Info: image/E-RUtil.pdf  used on input line 1271.
+(pdftex.def)             Requested size: 380.93254pt x 183.13092pt.
+) (./chapter4.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[69 <./image/E-RUtil.pdf>]
+Ch\uhorn \ohorn ng 4.
+[70
 
 ]
+
+pdfTeX warning: pdflatex.exe (file ./image/MohinhDuongDiDuLieu.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<image/MohinhDuongDiDuLieu.pdf, id=1156, 822.07124pt x 252.945pt>
+File: image/MohinhDuongDiDuLieu.pdf Graphic file (type pdf)
+<use image/MohinhDuongDiDuLieu.pdf>
+Package pdftex.def Info: image/MohinhDuongDiDuLieu.pdf  used on input line 14.
+(pdftex.def)             Requested size: 493.24655pt x 151.76816pt.
+
+Overfull \hbox (52.22882pt too wide) in paragraph at lines 14--15
+ [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[71 <./image/MohinhDuongDiDuLieu.pdf>]
+Underfull \hbox (badness 4927) in paragraph at lines 48--48
+[]|\T5/cmr/m/n/13 Dú li»u nhªp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+[]|\T5/cmr/m/n/13 Tr¤ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\T5/cmr/m/n/13 ^^^i·u h÷îng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\T5/cmr/m/n/13 Ng÷íi dòng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 52--52
+[]|\T5/cmr/m/n/13 Nhªp t¶n t i
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 52--52
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 54--54
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 56--56
+[]|\T5/cmr/m/n/13 Nh§n v o nót
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\T5/cmr/m/n/13 Ng÷íi dòng
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 56--56
+\T5/cmr/m/n/13 v o trang chõ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\T5/cmr/m/n/13 Chuyºn ^^_¸n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Overfull \hbox (18.29547pt too wide) in alignment at lines 45--60
+ [] [] [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[72]
+Underfull \hbox (badness 4927) in paragraph at lines 66--66
+[]|\T5/cmr/m/n/13 Dú li»u nhªp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+[]|\T5/cmr/m/n/13 Tr¤ng
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 68--68
+[]|\T5/cmr/m/n/13 Nh§n v o nót
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\T5/cmr/m/n/13 Ng÷íi dòng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\T5/cmr/m/n/13 ^^_÷ñc chuyºn
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 68--68
+\T5/cmr/m/n/13 v· trang ^^_«ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Overfull \hbox (18.29547pt too wide) in alignment at lines 63--70
+ [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 76--76
+[]|\T5/cmr/m/n/13 Dú li»u nhªp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+[]|\T5/cmr/m/n/13 Tr¤ng
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 78--78
+[]|\T5/cmr/m/n/13 Nh§n v o nót
+ []
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 78--78
+\T5/cmr/m/n/13 thæng tin t i
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 80--80
+[]|\T5/cmr/m/n/13 Nhªp t¶n ^^_¦y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\T5/cmr/m/n/13 L¶ B¡ Tu§n
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 80--80
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 82--82
+[]|\T5/cmr/m/n/13 Nhªp t¶n t i
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 82--82
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 84--84
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 86--86
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 88--88
+[]|\T5/cmr/m/n/13 Nhªp l¤i mªt
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 88--88
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\T5/cmr/m/n/13 tuananh300496
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 90--90
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 92--92
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 94--94
+[]|\T5/cmr/m/n/13 Nhªp sè ^^_i»n
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 94--94
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 96--96
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\T5/cmr/m/n/13 Chån nhâm
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 98--98
+\T5/cmr/m/n/13 quy·n cho t i
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 98--98
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 100--100
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 102--102
+[]|\T5/cmr/m/n/13 Nh§n nót l÷u
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 102--102
+\T5/cmr/m/n/13 b¡o t i kho£n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+\T5/cmr/m/n/13 ^^_÷ñc l÷u v 
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 102--102
+\T5/cmr/m/n/13 danh s¡ch t i
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Overfull \hbox (18.29547pt too wide) in alignment at lines 73--104
+ [] [] [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[73]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[74]
+Underfull \hbox (badness 4927) in paragraph at lines 110--110
+[]|\T5/cmr/m/n/13 Dú li»u nhªp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+[]|\T5/cmr/m/n/13 Tr¤ng
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 112--112
+[]|\T5/cmr/m/n/13 Nh§n v o nót
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 112--112
+\T5/cmr/m/n/13 thæng tin s£n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 114--114
+[]|\T5/cmr/m/n/13 Nhªp t¶n s£n
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 114--114
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 116--116
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 118--118
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 120--120
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 122--122
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 124--124
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\T5/cmr/m/n/13 Nhªp gi¡
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 126--126
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 130--130
+[]|\T5/cmr/m/n/13 So¤n th£o nëi
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 130--130
+\T5/cmr/m/n/13 dung cho s£n
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 130--130
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]|\T5/cmr/m/n/13 Chån tr¤ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\T5/cmr/m/n/13 hot, hiºn thà
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 132--132
+\T5/cmr/m/n/13 tr¶n trang ch¿
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]|\T5/cmr/m/n/13 Active, Hot
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 132--132
+\T5/cmr/m/n/13 prod-uct, Show
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 132--132
+\T5/cmr/m/n/13 li»u tr¶n m n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 134--134
+[]|\T5/cmr/m/n/13 Nh§n nót l÷u
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 134--134
+\T5/cmr/m/n/13 b¡o s£n ph©m
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+\T5/cmr/m/n/13 ^^_÷ñc l÷u v 
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 134--134
+\T5/cmr/m/n/13 danh s¡ch s£n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+[]|\T5/cmr/m/n/13 Th nh
+ []
+
+
+Overfull \hbox (18.29547pt too wide) in alignment at lines 107--136
+ [] [] [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[75]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[76]
+<image/danhsachTK.png, id=1207, 1026.83624pt x 548.80031pt>
+File: image/danhsachTK.png Graphic file (type png)
+<use image/danhsachTK.png>
+Package pdftex.def Info: image/danhsachTK.png  used on input line 143.
+(pdftex.def)             Requested size: 462.07204pt x 246.95784pt.
+
+Overfull \hbox (21.0543pt too wide) in paragraph at lines 143--144
+ [] 
+ []
+
+<image/themTK.png, id=1209, 1017.04968pt x 547.2947pt>
+File: image/themTK.png Graphic file (type png)
+<use image/themTK.png>
+Package pdftex.def Info: image/themTK.png  used on input line 154.
+(pdftex.def)             Requested size: 457.66812pt x 246.28033pt.
+
+Overfull \hbox (16.65039pt too wide) in paragraph at lines 154--155
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<image/themSanPham.png, id=1210, 1027.58907pt x 550.30594pt>
+File: image/themSanPham.png Graphic file (type png)
+<use image/themSanPham.png>
+Package pdftex.def Info: image/themSanPham.png  used on input line 164.
+(pdftex.def)             Requested size: 462.41081pt x 247.63538pt.
+
+Overfull \hbox (21.39308pt too wide) in paragraph at lines 164--165
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<image/danhsachSP.png, id=1211, 1026.83624pt x 550.30594pt>
+File: image/danhsachSP.png Graphic file (type png)
+<use image/danhsachSP.png>
+Package pdftex.def Info: image/danhsachSP.png  used on input line 174.
+(pdftex.def)             Requested size: 462.07204pt x 247.63538pt.
+
+Overfull \hbox (21.0543pt too wide) in paragraph at lines 174--175
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<image/trangchu.png, id=1212, 1027.58907pt x 548.0475pt>
+File: image/trangchu.png Graphic file (type png)
+<use image/trangchu.png>
+Package pdftex.def Info: image/trangchu.png  used on input line 184.
+(pdftex.def)             Requested size: 462.41081pt x 246.6191pt.
+
+Overfull \hbox (21.39308pt too wide) in paragraph at lines 184--185
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./Tongketdoan.tex [77 <./image/danhsachTK.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[78 <./image/themTK.png> <./image/themSanpham.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[79 <./image/danhsachSP.png> <./image/trangchu.png>]) (./Tailieuthamkhao.tex
+[80
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 17.97173pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[81]
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 []\T5/cmr/m/n/13 ^^PIntroduction - The com-plete C# tu-to-rial.^^Q [On-line]. A
 vail-able:
@@ -2096,1363 +3205,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 /.
  []
 
-) (./Phuluc.tex [56
-
-]
-
-Package microtype Warning: I cannot find a protrusion list for font
-(microtype)                `T5/cmtt/m/n/10.03757'. Switching off
-(microtype)                protrusion for this font on input line 9.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 21.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 23.
-
-
-Package xcolor Warning: Incompatible color definition on input line 28.
-
-
-Package xcolor Warning: Incompatible color definition on input line 28.
-
-
-Package xcolor Warning: Incompatible color definition on input line 28.
-
-
-Package xcolor Warning: Incompatible color definition on input line 28.
-
-
-Package xcolor Warning: Incompatible color definition on input line 28.
-
-
-Package xcolor Warning: Incompatible color definition on input line 28.
-
-
-Package xcolor Warning: Incompatible color definition on input line 34.
-
-
-Package xcolor Warning: Incompatible color definition on input line 34.
-
-
-Package xcolor Warning: Incompatible color definition on input line 34.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 36.
-
-
-Package xcolor Warning: Incompatible color definition on input line 42.
-
-
-Package xcolor Warning: Incompatible color definition on input line 42.
-
-
-Package xcolor Warning: Incompatible color definition on input line 42.
-
-
-Package xcolor Warning: Incompatible color definition on input line 42.
-
-
-Package xcolor Warning: Incompatible color definition on input line 42.
-
-
-Package xcolor Warning: Incompatible color definition on input line 42.
-
-
-Package xcolor Warning: Incompatible color definition on input line 42.
-
-
-Package xcolor Warning: Incompatible color definition on input line 42.
-
-
-Package xcolor Warning: Incompatible color definition on input line 42.
-
-
-Package xcolor Warning: Incompatible color definition on input line 42.
-
-[57
-
-]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[58]
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 53.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 57.
-
-
-Package xcolor Warning: Incompatible color definition on input line 58.
-
-
-Package xcolor Warning: Incompatible color definition on input line 58.
-
-
-Package xcolor Warning: Incompatible color definition on input line 58.
-
-
-Package xcolor Warning: Incompatible color definition on input line 59.
-
-
-Package xcolor Warning: Incompatible color definition on input line 59.
-
-
-Package xcolor Warning: Incompatible color definition on input line 59.
-
-
-Package xcolor Warning: Incompatible color definition on input line 59.
-
-
-Package xcolor Warning: Incompatible color definition on input line 59.
-
-
-Package xcolor Warning: Incompatible color definition on input line 59.
-
-
-Package xcolor Warning: Incompatible color definition on input line 59.
-
-
-Package xcolor Warning: Incompatible color definition on input line 63.
-
-
-Package xcolor Warning: Incompatible color definition on input line 63.
-
-
-Package xcolor Warning: Incompatible color definition on input line 63.
-
-
-Package xcolor Warning: Incompatible color definition on input line 64.
-
-
-Package xcolor Warning: Incompatible color definition on input line 64.
-
-
-Package xcolor Warning: Incompatible color definition on input line 64.
-
-
-Package xcolor Warning: Incompatible color definition on input line 64.
-
-
-Package xcolor Warning: Incompatible color definition on input line 64.
-
-
-Package xcolor Warning: Incompatible color definition on input line 64.
-
-
-Package xcolor Warning: Incompatible color definition on input line 64.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[59]
-
-Package xcolor Warning: Incompatible color definition on input line 82.
-
-
-Package xcolor Warning: Incompatible color definition on input line 82.
-
-
-Package xcolor Warning: Incompatible color definition on input line 82.
-
-
-Package xcolor Warning: Incompatible color definition on input line 82.
-
-
-Package xcolor Warning: Incompatible color definition on input line 82.
-
-
-Package xcolor Warning: Incompatible color definition on input line 82.
-
-
-Package xcolor Warning: Incompatible color definition on input line 82.
-
-
-Package xcolor Warning: Incompatible color definition on input line 82.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 83.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 85.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 87.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 92.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 94.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 99.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package xcolor Warning: Incompatible color definition on input line 103.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[60]
-
-Package xcolor Warning: Incompatible color definition on input line 114.
-
-
-Package xcolor Warning: Incompatible color definition on input line 114.
-
-
-Package xcolor Warning: Incompatible color definition on input line 114.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 119.
-
-
-Package xcolor Warning: Incompatible color definition on input line 126.
-
-
-Package xcolor Warning: Incompatible color definition on input line 126.
-
-
-Package xcolor Warning: Incompatible color definition on input line 126.
-
-
-Package xcolor Warning: Incompatible color definition on input line 127.
-
-
-Package xcolor Warning: Incompatible color definition on input line 127.
-
-
-Package xcolor Warning: Incompatible color definition on input line 127.
-
-
-Package xcolor Warning: Incompatible color definition on input line 127.
-
-
-Package xcolor Warning: Incompatible color definition on input line 127.
-
-
-Package xcolor Warning: Incompatible color definition on input line 127.
-
-
-Package xcolor Warning: Incompatible color definition on input line 131.
-
-
-Package xcolor Warning: Incompatible color definition on input line 131.
-
-
-Package xcolor Warning: Incompatible color definition on input line 131.
-
-
-Package xcolor Warning: Incompatible color definition on input line 131.
-
-
-Package xcolor Warning: Incompatible color definition on input line 131.
-
-
-Package xcolor Warning: Incompatible color definition on input line 131.
-
-
-Package xcolor Warning: Incompatible color definition on input line 131.
-
-
-Package xcolor Warning: Incompatible color definition on input line 131.
-
-
-Package xcolor Warning: Incompatible color definition on input line 131.
-
-
-Package xcolor Warning: Incompatible color definition on input line 131.
-
-
-Package xcolor Warning: Incompatible color definition on input line 134.
-
-
-Package xcolor Warning: Incompatible color definition on input line 134.
-
-
-Package xcolor Warning: Incompatible color definition on input line 134.
-
-
-Package xcolor Warning: Incompatible color definition on input line 134.
-
-
-Package xcolor Warning: Incompatible color definition on input line 134.
-
-
-Package xcolor Warning: Incompatible color definition on input line 134.
-
-
-Package xcolor Warning: Incompatible color definition on input line 134.
-
-
-Package xcolor Warning: Incompatible color definition on input line 134.
-
-
-Package xcolor Warning: Incompatible color definition on input line 134.
-
-
-Package xcolor Warning: Incompatible color definition on input line 134.
-
-
-Package xcolor Warning: Incompatible color definition on input line 134.
-
-
-Package xcolor Warning: Incompatible color definition on input line 138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 139.
-
-
-Package xcolor Warning: Incompatible color definition on input line 141.
-
-
-Package xcolor Warning: Incompatible color definition on input line 141.
-
-
-Package xcolor Warning: Incompatible color definition on input line 141.
-
-
-Package xcolor Warning: Incompatible color definition on input line 141.
-
-
-Package xcolor Warning: Incompatible color definition on input line 141.
-
-
-Package xcolor Warning: Incompatible color definition on input line 141.
-
-
-Package xcolor Warning: Incompatible color definition on input line 141.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[61]
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 153.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 154.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 163.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
-
-Package xcolor Warning: Incompatible color definition on input line 173.
-
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
+ [82
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[62]
+]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
  (./DATN_2018.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
 Package rerunfilecheck Info: File `DATN_2018.out' has not changed.
-(rerunfilecheck)             Checksum: 41644BF5DE90B3CA974451413BBCD0B0;6024.
+(rerunfilecheck)             Checksum: 3CA05560C1C66D3842838F2D55E4503F;7049.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3464,25 +3227,24 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 30446 strings out of 492649
- 497575 string characters out of 6133383
- 810739 words of memory out of 5000000
- 33519 multiletter control sequences out of 15000+600000
- 569276 words of font info for 106 fonts, out of 8000000 for 9000
+ 30356 strings out of 492649
+ 501719 string characters out of 6125815
+ 813142 words of memory out of 5000000
+ 33509 multiletter control sequences out of 15000+600000
+ 567022 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,10n,58p,10418b,1891s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/tex
-live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018
-/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/texlive/2018/texmf-dist/fonts/
-type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/
-vncsc10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb><c:/tex
-live/2018/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb><c:/texlive/2018/texmf-di
-st/fonts/type1/vntex/vnr/vntt10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vnt
-ex/vnr/vntt12.pfb>
-Output written on DATN_2018.pdf (80 pages, 1421837 bytes).
+ 56i,10n,58p,10418b,1233s stack positions out of 5000i,500n,10000p,200000b,80000s
+<e:/SOFTWARE/Latext/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><e:/SOFTWARE/Latext/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnbx
+12.pfb><e:/SOFTWARE/Latext/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnbxti
+10.pfb><e:/SOFTWARE/Latext/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vncsc1
+0.pfb><e:/SOFTWARE/Latext/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnr12.p
+fb><e:/SOFTWARE/Latext/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb
+><e:/SOFTWARE/Latext/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vntt12.pfb>
+Output written on DATN_2018.pdf (101 pages, 2344308 bytes).
 PDF statistics:
- 1108 PDF objects out of 1200 (max. 8388607)
- 908 compressed objects within 10 object streams
- 324 named destinations out of 1000 (max. 500000)
- 25981 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 1320 PDF objects out of 1440 (max. 8388607)
+ 1053 compressed objects within 11 object streams
+ 235 named destinations out of 1000 (max. 500000)
+ 25075 words of extra memory for PDF output out of 29859 (max. 10000000)
 

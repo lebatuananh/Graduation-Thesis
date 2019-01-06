@@ -733,7 +733,7 @@ Hình \ref{refhinh3_5} là use case tổng quan của người vận chuyển, n
 \item Đăng xuất được thể hiện ở Bảng \ref{logout}
 \item Xem hoá đơn sản phẩm được thể hiện ở Bảng \ref{listBill}
 \end{itemize}
-\subsection{Biểu đồ tuần tự(sequence diagram)}
+\subsection{Biểu đồ tuần tự (sequence diagram)}
 Biểu đồ tuần tự minh họa các đối tượng tương tác với nhau ra sao. Chúng tập trung vào các chuỗi thông điệp, có nghĩa là các thông điệp được gửi và nhận giữa một loạt các đối tượng như thế nào. Biểu đồ tuần tự có hai trục: trục nằm dọc chỉ thời gian, trục nằm ngang chỉ ra một tập hợp các đối tượng. Một biểu đồ tuần tự cũng nêu bật sự tương tác trong một kịch bản – một sự tương tác sẽ xảy ra tại một thời điểm nào đó trong quá trình thực thi của hệ thống.
 \begin{itemize}
 \item Mục đích: biểu diễn tương tác giữa những người dùng và những đối tượng bên trong hệ thống. Biểu đồ này cho biết các thông điệp được truyền tuần tự như thế nào theo thời gian. Thứ tự các sự kiện trong biểu đồ tuần tự hoàn toàn tương tự như trong kịch bản mô tả use case tương ứng.
@@ -745,7 +745,541 @@ Biểu đồ tuần tự minh họa các đối tượng tương tác với nhau
 \end{itemize}
 \end{itemize}
 \par
-Dưới đây là một số biểu đồ tuần tự cho các chức năng của hệ thống quản lý bán hàng:
+Dưới đây là một số biểu đồ tuần tự cho một số chức năng của hệ thống quản lý bán hàng:
+\begin{itemize}
+\item Biều đồ tuần tự cho chức năng đăng nhập
+\begin{center}   
+    \begin{figure}[h]
+     \begin{center} \includegraphics[scale=0.65]{image/SquenceDiagramDN.pdf} 
+    \end{center}
+     \caption{Biểu đồ tuần tự chức năng đăng nhập} \label{refhinh3_6} 
+    \end{figure}
+\end{center}
+\par
+Hình \ref{refhinh3_6} mô tả chức năng đăng nhập của hệ thống quản trị bao gồm cả các bước xác thực quyền hạn trong hệ thống của tài khoản đấy.
+\newpage
+\item Biểu đồ tuần tự cho chức năng đăng xuất
+\begin{center}
+    \begin{figure}[h]
+    \begin{center}
+     \includegraphics[scale=0.7]{image/SquenceDiagramDX.pdf}
+    \end{center}
+    \caption{Biểu đồ tuần tự chức năng đăng xuất}
+    \label{refhinh3_7}
+    \end{figure}
+\end{center}
+Hình \ref{refhinh3_7} mô tả chức năng đăng xuất khi người sử dụng hệ thống không làm việc hoặc ở trạng thái nghỉ đảm bảo tính bảo mật dữ liệu cho hệ thống.
+\newpage
+\item Biểu đồ tuần tự chức năng thêm mới
+\begin{center}
+    \begin{figure}[h]
+    \begin{center}
+     \includegraphics[scale=0.65]{image/SquenceDiagramTM.pdf}
+    \end{center}
+    \caption{Biểu đồ tuần tự chức năng thêm mới}
+    \label{refhinh3_8}
+    \end{figure}
+\end{center}
+Hình \ref{refhinh3_8} mô tả chức năng thêm một đối tượng trong hệ thống ví dụ như: sản phẩm, đơn hàng, danh mục sản phẩm, tài khoản, nhóm quyền,...
+\newpage
+\item Biểu đồ tuần tự chức năng sửa
+\begin{center}
+    \begin{figure}[h]
+    \begin{center}
+     \includegraphics[scale=0.65]{image/SquenceDiagramS.pdf}
+    \end{center}
+    \caption{Biểu đồ tuần tự chức năng sửa}
+    \label{refhinh3_9}
+    \end{figure}
+\end{center}
+Hình \ref{refhinh3_9} mô tả chức năng sửa một đối tượng trong hệ thống ví dụ như: sản phẩm, đơn hàng, danh mục sản phẩm, tài khoản, nhóm quyền,...
+\newpage
+\item Biểu đồ tuần tự chức năng xoá
+\begin{center}
+    \begin{figure}[h]
+    \begin{center}
+     \includegraphics[scale=0.65]{image/SquenceDiagramX.pdf}
+    \end{center}
+    \caption{Biểu đồ tuần tự chức năng xoá}
+    \label{refhinh3_10}
+    \end{figure}
+\end{center}
+\end{itemize}
+Hình \ref{refhinh3_10} mô tả chức năng xoá một đối tượng trong hệ thống ví dụ như: sản phẩm, đơn hàng, danh mục sản phẩm, tài khoản, nhóm quyền,...
+\subsection{Cơ sở dữ liệu}
+Từ các phân tích yêu cầu hệ thống tới các sơ đồ tổng quan, em thiết kế bộ cơ sở dữ liệu với 3 nhóm thành phần chính: 
+\begin{itemize}
+\item Nhóm cơ sở dữ liệu liên quan đến hệ thống như là: tài khoản, quyền và nhóm quyền, các thông báo cho quản trị viên.
+\item Nhóm cơ sở dữ liệu liên quan đến thương mại điện tử như là: sản phẩm và các thuộc tính của sản phẩm, danh mục sản phẩm, hoá đơn, người vận chuyển
+\item Nhóm cơ sở dữ liệu tiện ích như là: thông tin cửa hàng, quảng cáo, slide ảnh,... 
+\end{itemize}
+\subsubsection{Thiết kế nhóm bảng cơ sở dữ liệu hệ thống}
+Bước 1: Xác định các thực thể và liên kết giữa các thực thể 
+\begin{itemize}
+\item Một người dùng có nhiều nhóm quyền và một nhóm quyền được gán cho nhiều người dùng khác nhau nên quan hệ người dùng và nhóm quyền là quan hệ nhiều nhiều (n-n).
+\item Mộ người dúng có nhiều thông báo nên quan hệ người dùng và thông báo là quan hệ 1 nhiều (1-n).
+\item Một thông báo gửi đến nhiều người dùng nên quan hệ giữa thông báo và thông báo đến người dùng là 1 nhiều (1-n).
+\item Một nhóm quyền có nhiều quyền trong chức năng và 1 chức năng được gán vào nhiều nhóm quyền nên quan hệ giữa nhóm quyền và chức năng là quan hệ nhiều nhiều (n-n).
+\end{itemize}
+Bước 2: Vẽ mô hình thực thể liên kết
+\begin{center}
+    \begin{figure}[h]
+    \begin{center}
+     \includegraphics[scale=0.65]{image/E-RSystem.pdf}
+    \end{center}
+    \caption{Mô hình thực thể liên kết nhóm dữ liệu hệ thống}
+    \label{refhinh3_11}
+    \end{figure}
+\end{center}
+Bước 3: Xác định các thuộc tính của các thực thể và thiết kế vật lý cơ sở dữ liệu
+\par
+- Bảng tài khoản người dùng:
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+ \caption{Bảng tài khoản người dùng \label{database}}\\
+ \hline
+ Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+ \hline
+  Id&uniqueidentifier&Khoá chính\\
+ \hline
+  UserName&nvarchar&Tên đăng nhập\\
+ \hline
+  Email&nvarchar&Email tài khoản\\
+ \hline
+  PasswordHash&nvarchar&Mật khẩu sau khi bị mã hoá\\
+ \hline
+  FullName&nvarchar&Tên đầy đủ\\
+ \hline
+  BirthDay&datetime2&Ngày sinh\\
+ \hline
+  Avatar&nvarchar&Ảnh đại diện\\
+ \hline
+  DateCreated&datetime2&Ngày tạo\\
+ \hline
+  DateModified&datetime2&Ngày sửa\\
+ \hline
+  Status&int&Trạng thái của tài khoản\\
+ \hline
+  Gender&bit&Giới tính\\
+ \hline
+  Address&nvarchar&Địa chỉ\\
+ \hline
+\end{longtable}
+\par
+- Bảng nhóm quyền:
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+ \caption{Bảng nhóm quyền người dùng \label{database}}\\
+ \hline
+ Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+ \hline
+  Id&uniqueidentifier&Khoá chính\\
+ \hline
+  Name&nvarchar&Tên nhóm quyền\\
+ \hline
+  [Description]&nvarchar(250)&Mô tả nhóm quyền\\
+ \hline
+\end{longtable}
+
+- Bảng tài khoản nhóm quyền:
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+ \caption{Bảng tài khoản nhóm quyền người dùng \label{database}}\\
+ \hline
+ Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+ \hline
+  [UserId]&uniqueidentifier&Khoá chính\\
+ \hline
+  [RoleId]&uniqueidentifier&Khoá chính\\
+ \hline
+\end{longtable}
+
+- Bảng chức năng hệ thống:
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+ \caption{Bảng tài khoản chức năng hệ thống \label{database}}\\
+ \hline
+ Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+ \hline
+  Id&varchar(128)&Khoá chính\\
+ \hline
+  Name&nvarchar(128)&Tên chức năng\\
+ \hline
+  URL&nvarchar(250)&Link truy cập đến chức năng trong hệ thông\\
+ \hline
+  ParentId&nvarchar(128)& Chức năng cha\\
+ \hline
+  IconCss&nvarchar&Icon của chức năng\\
+ \hline
+  SortOrder&int&Thứ tự sắp xếp\\
+ \hline
+  Status&int&Trạng thái của tài khoản\\
+ \hline
+\end{longtable}
+
+- Bảng quyền chức năng:
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+ \caption{Bảng quyền chức năng hệ thống \label{database}}\\
+ \hline
+ Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+ \hline
+  Id&int&Khoá chính\\
+ \hline
+  RoleId&uniqueidentifier&Khoá ngoại tham chiếu đến bảng nhóm quyền\\
+ \hline
+  FunctionId&varchar(128)&Khoá ngoại tham chiếu đến bảng chức năng\\
+ \hline
+  CanCreate&bit& Quyền thêm\\
+ \hline
+  CanRead&bit&Quyền đọc\\
+ \hline
+  CanUpdate&bit&Quyền cập nhật\\
+ \hline
+  CanDelete&bit&Quyền xoá\\
+ \hline
+\end{longtable}
+
+- Bảng thông báo:
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+ \caption{Bảng thông báo hệ thống \label{database}}\\
+ \hline
+ Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+ \hline
+  Id&nvarchar(128)&Khoá chính\\
+ \hline
+  UserId&uniqueidentifier&Khoá ngoại tham chiếu đến bảng tài khoản\\
+ \hline
+  Title&nvarchar(250)&Tiêu đề thông báo\\
+ \hline
+  Content&nvarchar(250)& Nội dung thông báo\\
+ \hline
+  DateCreated&datetime2&Ngày tạo\\
+ \hline
+  DateModified&datetime2&Ngày sửa\\
+ \hline
+  Status&int&Trạng thái của thông báo\\
+ \hline
+\end{longtable}
+
+- Bảng thông báo người dùng:
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+ \caption{Bảng thông báo người dùng hệ thống \label{database}}\\
+ \hline
+ Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+ \hline
+  Id&int&Khoá chính\\
+ \hline
+  UserId&uniqueidentifier&tài khoản được nhận thông báo\\
+ \hline
+  AnnouncementId&nvarchar(128)&Khoá ngoại tham chiếu đến bảng thông báo\\
+ \hline
+  HasRead&int&Trạng thái đọc thông báo của người dùng \\
+ \hline
+\end{longtable}
+
+\subsubsection{Thiết kế nhóm bảng cơ sở dữ liệu thương mại điện tử}
+Bước 1: Xác định các thực thể và liên kết giữa các thực thể:
+\par 
+Ta có thể thấy nhóm cơ sở dữ liệu thương mại điện tử sẽ gồm 2 thực thể lớn đó là: sản phẩm và hoá đơn nên em cũng từ 2 thực thể chính này để tập trung xây dựng cơ sở dữ liệu cho nhóm cơ sở dữ liệu thương mại điện tử
+\begin{itemize}
+\item Sản phẩm có rất nhiều thuộc tính xung quanh nó như là: danh mục sản phẩm, ảnh sản phẩm, số lượng sản phẩm, màu sắc sản phẩm, kích cỡ sản phẩm, giá bán sỉ. Tất cả các thuộc tính trên có quan hẹ nhiều một với sản phẩm hay nói cách khác là sản phẩm có quan hệ một nhiều với các thuộc tính trên.
+\item Một người dùng có nhiều đơn hàng nên quan hệ giữa người dùng và đơn hàng là quan hệ một nhiều (1-n).
+\item Một người vận chuyển có nhiều đơn hàng nên quan hệ giữa người vận chuyển và đơn hàng là quan hệ một nhiều (1-n).
+\item Một sản phẩm có trong nhiều đơn hàng và 1 đơn hàng cũng có nhiều sản phẩm nên quan hệ giữa đơn hàng và sản phẩm là quan hệ nhiều nhiều (n-n). 
+\end{itemize}
+Bước 2: Vẽ mô hình thực thể liên kết
+\begin{center}
+    \begin{figure}[h]
+    \begin{center}
+     \includegraphics[scale=0.7]{image/E-REcomerce.pdf}
+    \end{center}
+    \caption{Mô hình thực thể liên kết nhóm dữ liệu thương mại điện tử}
+    \label{refhinh3_12}
+    \end{figure}
+\end{center}
+Bước 3: Xác định các thuộc tính của các thực thể và thiết kế vật lý cơ sở dữ liệu:
+\par
+- Bảng sản phẩm
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng sản phẩm \label{database}}\\
+ \hline
+ Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+ \hline
+  Id&int&Khoá chính\\
+ \hline
+ Name&nvarchar(255)&Tên sản phẩm\\
+ \hline
+ CategoryId&int&Khoá ngoại tham chiếu đến bảng danh mục sản phẩm\\
+ \hline
+ Image&nvarchar(255)&Ảnh sản phẩm\\
+ \hline 
+ Price&decimal(18,2)&Giá sản phẩm\\
+\hline
+ PromotionPrice&decimal(18,2)&Giá khuyển mại\\
+\hline
+ OriginalPrice&decimal(18,2)&Giá gốc\\
+ \hline
+ Description&nvarchar(255)&Mô tả sản phẩm\\
+ \hline
+ Content&nvarchar(max)&Nội dung sản phẩm\\
+ \hline
+ HomeFlag&bit&Hiển thị trang chủ\\
+ \hline
+ ViewCount&int&Lượt xem\\
+ \hline
+ Tags&nvarchar(255)&Thẻ\\
+ \hline
+ Unit&nvarchar(255)&Đơn vị tính\\
+ \hline
+ SeoPageTitle&nvarchar(max)&SEO cho trang sản phẩm\\
+ \hline
+ SeoAlias&nvarchar(255)&SEO cho link URL\\
+ \hline
+ SeoKeywords&nvarchar(255)&SEO cho từ khoá\\
+ \hline
+ SeoDescription&nvarchar(255)&SEO cho mô tả \\
+ \hline
+ DateCreated&datetime2(7)&Ngày tạo\\
+ \hline
+ DateModified&datetime2(7)&Ngày sửa\\
+ \hline
+ Status&int&Trạng thái\\
+ \hline
+\end{longtable}
+- Bảng màu sắc sản phẩm
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng màu sắc \label{database}}\\
+\hline
+Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+\hline
+Id&int&Khoá chính\\
+\hline
+Name&nvarchar(250)&Tên màu\\
+\hline
+Code&nvarchar(250)&Mã màu sắc\\
+\hline
+\end{longtable}
+
+- Bảng danh mục sản phẩm
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng danh mục sản phẩm \label{database}}\\
+\hline
+Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+\hline
+Id&int&Khoá chính\\
+\hline
+Name&nvarchar(max)&Tên danh mục sản phẩm\\
+\hline
+Description&nvarchar(max)&Mô tả danh mục sản phẩm\\
+\hline
+ParentId&int&Danh mục cha\\
+\hline
+HomeOrder&int&Thứ thự sắp xếp trên trang chủ\\
+\hline
+Image&nvarchar(max)&Hình ảnh danh mục sản phẩm\\
+\hline
+HomeFlag&bit&Hiển thị trang chỉ\\
+\hline
+DateCreated&datetime2(7)&Ngày tạo\\
+\hline
+DateModified&datetime2(7)&Ngày sửa\\
+\hline
+SortOrder&int&Thứ tự sắp xếp\\
+\hline
+Status&int&Trạng thái\\
+\hline
+ SeoPageTitle&nvarchar(max)&SEO cho trang danh mục sản phẩm\\
+ \hline
+ SeoAlias&nvarchar(255)&SEO cho link URL\\
+ \hline
+ SeoKeywords&nvarchar(255)&SEO cho từ khoá\\
+ \hline
+ SeoDescription&nvarchar(255)&SEO cho mô tả \\
+ \hline
+\end{longtable}
+
+- Bảng hình ảnh sản phẩm
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng hình ảnh sản phẩm \label{database}}\\
+\hline
+Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+\hline
+Id&int&Khoá chính\\
+\hline
+ProductId&int&Khoá ngoại tham chiếu đến bảng sản phẩm\\
+\hline
+Path&nvarchar(250)&Đường dẫn ảnh sản phẩm\\
+\hline
+Caption&nvarchar(250)&Chú thích ảnh\\
+\hline
+\end{longtable}
+
+- Bảng số lượng sản phẩm
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng số lượng sản phẩm \label{database}}\\
+\hline
+Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+\hline
+Id&int&Khoá chính\\
+\hline
+ProductId&int&Khoá ngoại tham chiếu đến bảng sản phẩm\\
+\hline
+SizeId&int&Khoá ngoại tham chiếu đến bảng kích cỡ\\
+\hline
+ColorId&int&Khoá ngoại tham chiếu đến bảng màu sắc\\
+\hline
+Quantity&int&Số lượng sản phẩm\\
+\hline
+\end{longtable}
+
+- Bảng thẻ 
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng thẻ \label{database}}\\
+\hline
+Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+\hline
+Id&nvarchar(50)&Khoá chính\\
+\hline
+Name&nvarchar(50)&Tên thẻ\\
+\hline
+Type&nvarchar(50)&Loại thẻ\\
+\hline
+\end{longtable}
+
+- Bảng thẻ sản phẩm
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng thẻ sản phẩm \label{database}}\\
+\hline
+Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+\hline
+Id&int&Khoá chính\\
+\hline
+ProductId&int&Khoá ngoại tham chiếu đến bảng sản phẩm\\
+\hline
+TagId&varchar(50)&Khoá ngoại tham chiếu đến bảng thẻ\\
+\hline
+\end{longtable}
+
+- Bảng người vận chuyển
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng người vận chuyển \label{database}}\\
+\hline
+Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+\hline
+Id&int&Khoá chính\\
+\hline
+Name&nvarchar(128)&Tên người vận chuyển \\
+\hline
+CompanyName&nvarchar(128)&Tên của công ty giao hàng\\
+\hline
+Phone&nvarchar(max)&Số điện thoại người vận chuyển\\
+\hline
+DateCreated&datetime2(7)&Ngày tạo\\
+\hline
+DateModified&datetime2(7)&Ngày sửa\\
+\hline
+SortOrder&int&Thứ tự sắp xếp\\
+\hline
+Status&int&Trạng thái\\
+\hline
+\end{longtable}
+
+- Bảng kích cỡ
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng kích cỡ sản phẩm \label{database}}\\
+\hline
+Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+\hline
+Id&int&Khoá chính\\
+\hline
+Name&nvarchar(250)&Tên kích cỡ sản phẩm\\
+\hline
+\end{longtable}
+
+- Bảng giá bán sỉ
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng giá bán sỉ \label{database}}\\
+\hline
+Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+\hline
+Id&int&Khoá chính\\
+\hline
+ProductId&int&Khoá ngoại tham chiếu đến bảng sản phẩm\\
+\hline
+FromQuantity&int&Số lượng tối thiểu\\
+\hline
+ToQuantity&int&Số lượng tối đa\\
+\hline
+Price&decimal(18,2)&Giá\\
+\hline
+\end{longtable}
+
+- Bảng hoá đơn
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng hoá đơn\label{database}}\\
+\hline
+Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+\hline
+Id&int&Khoá chính\\
+\hline
+CustomerName&nvarchar(256)&Tên khách hàng\\
+\hline
+CustomerAddress&nvarchar(256)&Địa chỉ khách hàng\\
+\hline
+CustomerMobile&nvarchar(256)&Số điện thoại khách hàng\\
+\hline
+CustomerMessage&nvarchar(256)&Yêu cầu khách hàng\\
+\hline
+PaymentMethod&int&Phương tiện thanh toán\\
+\hline
+BillStatus&int&Trạng thái hoá đơn\\
+\hline
+DateCreated&datetime2(7)&Ngày tạo hoá đơn\\
+\hline
+DateModified&datetime2(7)&Ngày sửa hoá đơn\\
+\hline
+Status&int&Trạng thái\\
+\hline
+CustomerId&uniqueidentifier&Khoá ngoại tham chiếu đến bảng ngưới dùng\\
+\hline
+ShipperId&int&Khoá ngoại tham chiếu đến bảng người vận chuyển\\
+\hline
+\end{longtable}
+
+- Bảng chi tiết hoá đơn
+\begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
+\caption{Bảng chi tiết hoá đơn \label{database}}\\
+\hline
+Tên cột trong cơ sở dữ liệu & Kiểu dữ liệu & Tên cột  \\
+\hline
+Id&int&Khoá chính\\
+\hline
+BillId&int&Khoá ngoại tham chiếu đến bảng hoá đơn\\
+\hline
+ProductId&int&Khoá ngoại tham chiếu đến bảng sản phẩm\\
+\hline
+Quantity&int&Số lượng sản phẩm\\
+\hline
+Price&decimal(18,2)&Giá hoá đơn\\
+\hline
+ColorId&int&Khoá ngoại tham chiếu đến bảng màu sắc\\
+\hline
+SizeId&int&Khoá ngoại tham chiếu đến bảng kích cỡ\\
+\hline
+\end{longtable}
+\subsubsection{Thiết kế nhóm bảng cơ sở dữ liệu tiện ích}
+Nhóm cơ sở dữ liệu tiện ích dùng để lưu thông tin tiện ích giúp cho người quản trị có thể lưu các thông tin bên lề của website như: quảng cáo, các slide ảnh, phản hồi của khách hàng, các thông tin về cửa hàng, các bài viết thông tin mới nhất về sản phẩm cũng như các chương trình khuyến mại.
+\begin{center}
+    \begin{figure}[h]
+    \begin{center}
+     \includegraphics[scale=0.7]{image/E-RUtil.pdf}
+    \end{center}
+    \caption{Mô hình thực thể liên kết nhóm dữ liệu tiện ích}
+    \label{refhinh3_13}
+    \end{figure}
+\end{center}
+
+\section{Kết luận}
+Sau khi đã phân tích và thiết kế xây dựng cơ sở dữ liệu hệ thống website thương mại điện tử một cách kỹ lượng, các chức năng sẽ được triển khai theo mô hình 3 lớp và các design pattern được nhiều lập trình viên sử dụng. Quá trình triển khai hệ thống và kiểm thử cũng như kết quả sẽ được mô tả ở Chương \ref{chapter4}. 
+
+
+
 
 
 
