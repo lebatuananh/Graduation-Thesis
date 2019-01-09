@@ -1,6 +1,6 @@
 \chapter{Triển khai, kiểm thử và kết quả}
 \label{chapter4}
-Sau khi đã phân tích các chức năng và nghiệp vụ của từng đối tượng trong hệ thống cũng như em đã xây dựng được cơ sở dữ liệu hoàn chỉnh, em sẽ tiến hành triển khai hệ thống theo các chức năng đã được nêu ra ở Chương \ref{chapter3} cùng với đó em sẽ đưa ra một số trường hợp để kiểm thử các chức năng và hướng phát triển của đề tài.
+Sau khi đã phân tích các chức năng và nghiệp vụ của từng đối tượng trong hệ thống cũng như xây dựng được cơ sở dữ liệu hoàn chỉnh, em sẽ tiến hành triển khai hệ thống theo các chức năng đã được nêu ra ở Chương \ref{chapter3} cùng với đó em sẽ đưa ra một số trường hợp để kiểm thử các chức năng và hướng phát triển của đề tài.
 \section{Triển khai hệ thống}
 Để triển khai hệ thống em dùng một số Design Pattern:
 \begin{itemize}
@@ -22,7 +22,7 @@ Sau khi đã phân tích các chức năng và nghiệp vụ của từng đối
 Hình \ref{refhinh4_1} là mô hình tổng quan triển khai hệ thống bao gồm các tầng sau:
 \begin{itemize}
 \item Tầng View: tầng hiển thị giao diện cho người dùng.
-\item Tầng WebApp: tầng tiếp nhận yêu cầu của người dùng để xử lý và trả dữ liệu đến view hiển thị lên giao diện người dùng, đây cũng là tầng trung gian giữa giao diện và dữ liệu nói cách khách WebApp là tầng điều khiển dữ liệu cho hệ thống.
+\item Tầng WebApp: tầng tiếp nhận yêu cầu của người dùng để xử lý và trả dữ liệu đến view hiển thị lên giao diện người dùng, đây cũng là tầng trung gian giữa giao diện và dữ liệu nói cách khác WebApp là tầng điều khiển dữ liệu cho hệ thống.
 \item Tầng Business Logic: tầng này xử lý các nghiệp vụ của từng thực thể có trong hệ thống như là sản phẩm, tài khoản, đơn hàng,...
 \item Tầng Data Layer: tầng này đảm nhận việc điều khiển dữ liệu trong cơ sở dữ liệu thông qua Entity Framework, nó giúp hệ thống gọi đến cơ sở dữ liệu và thực hiện lấy đúng dữ liệu theo yêu cầu của người dùng.
 \item Tầng Data Store: tầng này có nhiệm vụ lưu trữ dữ liệu cho hệ thống.
@@ -75,7 +75,7 @@ Bước kiểm tra & Dữ liệu nhập vào & Kết quả dự kiến & Kết q
  \hline
  Bước kiểm tra & Dữ liệu nhập vào & Kết quả dự kiến & Kết quả thực tế & Trạng thái \\
  \hline
-  Nhấn vào nút thêm tài khoản người dùng & & Giao hiện hiển thị modal nhập thông tin tài khoản & Như dự kiến & Thành công\\
+  Nhấn vào nút thêm tài khoản người dùng & & Giao diện hiển thị modal nhập thông tin tài khoản & Như dự kiến & Thành công\\
  \hline
    Nhập tên đầy đủ & Lê Bá Tuấn Anh & Nhập được dữ liệu trên màn hình & Như dự kiến & Thành công\\
  \hline
@@ -109,7 +109,7 @@ Bước kiểm tra & Dữ liệu nhập vào & Kết quả dự kiến & Kết q
  \hline
  Bước kiểm tra & Dữ liệu nhập vào & Kết quả dự kiến & Kết quả thực tế & Trạng thái \\
  \hline
-  Nhấn vào nút thêm sản phẩm & & Giao hiện hiển thị modal nhập thông tin sản phẩm & Như dự kiến & Thành công\\
+  Nhấn vào nút thêm sản phẩm & & Giao diện hiển thị modal nhập thông tin sản phẩm & Như dự kiến & Thành công\\
  \hline
    Nhập tên sản phẩm & Sản phẩm Test & Nhập được dữ liệu trên màn hình & Như dự kiến & Thành công\\
  \hline
@@ -136,7 +136,7 @@ Bước kiểm tra & Dữ liệu nhập vào & Kết quả dự kiến & Kết q
 \end{longtable}
 
 \subsection{Kết quả}
-Trên đây em trình bày kiểm thử một số chức năng chính của hệ thống vì trong lúc triển khai hệ thống em đã kiểm thử hết các chức năng của hệ thống và dưới đây là một số kết quả sau khi kiểm thử phẩn mềm.
+Trên đây em trình bày kiểm thử một số chức năng chính của hệ thống vì trong lúc triển khai hệ thống em đã kiểm thử hết các chức năng của hệ thống và dưới đây là một số kết quả sau khi kiểm thử phần mềm.
  \begin{center}
     \begin{figure}[h]
     \begin{center}
@@ -147,7 +147,7 @@ Trên đây em trình bày kiểm thử một số chức năng chính của h�
     \end{figure}
 \end{center}
 \par
-Hình \ref{refhinh4_2} là màn hình sau khi kiểm thử chức năng thêm tài khoản người dùng. Một số hình dưới đây đều là kết quả thu được sau khi quá trình kiểm thử triển khai hệ thống, vì có nhiều chức năng nên em chỉ đưa ra những hình ảnh của chức năng nối bật nhất.
+Hình \ref{refhinh4_2} là màn hình sau khi kiểm thử chức năng thêm tài khoản người dùng. Một số hình dưới đây đều là kết quả thu được sau khi quá trình kiểm thử triển khai hệ thống, vì có nhiều chức năng nên em chỉ đưa ra những hình ảnh của chức năng nổi bật nhất.
  \begin{center}
     \begin{figure}[h]
     \begin{center}
@@ -161,9 +161,9 @@ Hình \ref{refhinh4_2} là màn hình sau khi kiểm thử chức năng thêm t�
  \begin{center}
     \begin{figure}[h]
     \begin{center}
-     \includegraphics[scale=0.45]{image/themSanPham}
+     \includegraphics[scale=0.45]{image/themSanpham}
     \end{center}
-    \caption{Giao diện danh thêm sản phẩm}
+    \caption{Giao diện thêm sản phẩm}
     \label{refhinh4_4}
     \end{figure}
 \end{center}

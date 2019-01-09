@@ -3,23 +3,23 @@
 Từ những cơ sở lý thuyết thu thập ở chương \ref{chapter2}, chương \ref{chapter3} em sẽ trình bày phân tích yêu cầu chức năng quy trình thiết kế hệ thống.
 \section{Phân tích yêu cầu}
 \subsection{Mô tả hệ thống}
-Một website thương mại cho phép cửa hàng có thể bán tất cả các loại mặt hàng, có thể giao dịch trực tuyển qua nhiều hinhf thức thanh toán như là: Ngân Lượng, Bảo Kim, ATM, COD,...
-Chủ đạo của website là đăng thông tin sản phẩm thật cho khách hàng dễ dàng tìm kiểm thông qua mạng Internet rất phổ cập hiện nay. Người quản trị chính là chủ cửa hàng có một trang quản trị riêng đẻ đăng những thông tin sản phầm, quản lý hoá đơn mua hàng, xem doanh thu theo những mốc thời gian mà người quản trị cần, quản lý thông tin cửa hàng, quản lý quyền cho hệ thống cũng như những tài khoản của khách hàng và cho phép cửa hàng có thể bán thêm những mặt hàng mới nên sẽ phải có hệ thống danh mục sản phầm động. Để thuận tiện cho người quản lý phải có thêm chức năng tìm kiếm ở mỗi chức năng quản lý.
+Một website thương mại cho phép cửa hàng có thể bán tất cả các loại mặt hàng, có thể giao dịch trực tuyến qua nhiều hình thức thanh toán như là: Ngân Lượng, Bảo Kim, ATM, COD,...
+Chủ đạo của website là đăng thông tin sản phẩm thật cho khách hàng dễ dàng tìm kiếm thông qua mạng Internet rất phổ cập hiện nay. Người quản trị chính là chủ cửa hàng có một trang quản trị riêng để đăng những thông tin sản phẩm, quản lý hoá đơn mua hàng, xem doanh thu theo những mốc thời gian mà người quản trị cần, quản lý thông tin cửa hàng, quản lý quyền cho hệ thống cũng như những tài khoản của khách hàng và cho phép cửa hàng có thể bán thêm những mặt hàng mới nên sẽ phải có hệ thống danh mục sản phẩm động. Để thuận tiện cho người quản lý phải có thêm chức năng tìm kiếm ở mỗi chức năng quản lý.
 \par
-Đối với khách hàng họ cần có 1 tài khoản với thông tin chính xác đề người quản trị liên hệ lại với họ và tiền hành giao dịch mua bán. Với trang chủ để khách hàng xem thông tin sản phẩm chúng ta cần phải có 1 giao diện bắt mắt và thân thiện với người dùng kèm theo đấy là những chức năng tìm kiếm theo những điều kiện khác nhau để người dùng có thể xem những sản phầm họ cần thật nhanh. Vì đây là 1 trang web thương mại điện tử chúng ta không thể thiếu đi được chức năng đăng ký đăng nhập cũng như thay đổi các thông tin cá nhân liên quan đến tài khoản người dùng. Một điều quan trọng hơn nữa là phải lưu được hoá đơn kèm theo đối với mỗi tài khoản người dùng và hỗ trợ chức năng thêm nhiều sản phẩm vào giỏ hàng để người sử dụng dễ dàng hơn trong việc mua sắm.
+Đối với khách hàng, họ cần có 1 tài khoản với thông tin chính xác để người quản trị liên hệ lại với họ và tiến hành giao dịch mua bán. Với trang chủ để khách hàng xem thông tin sản phẩm chúng ta cần phải có 1 giao diện bắt mắt và thân thiện với người dùng kèm theo đấy là những chức năng tìm kiếm theo những điều kiện khác nhau để người dùng có thể xem những sản phẩm họ cần thật nhanh. Vì đây là 1 trang web thương mại điện tử chúng ta không thể thiếu đi được chức năng đăng ký, đăng nhập cũng như thay đổi các thông tin cá nhân liên quan đến tài khoản người dùng. Một điều quan trọng hơn nữa là phải lưu được hoá đơn kèm theo đối với mỗi tài khoản người dùng và hỗ trợ chức năng thêm nhiều sản phẩm vào giỏ hàng để người sử dụng dễ dàng hơn trong việc mua sắm.
 \subsection{Yêu cầu hệ thống}
 \subsubsection{Yêu cầu chức năng}
  Hệ thống website thương mại điện tử sẽ được chia theo nhiều cấp độ người dùng:
 \begin{itemize}
- \item Người quản trị: Có mọi quyền để tương tác trong hệ thống, người quản trị có thể thay đối bất kì thông tin của sản phẩm hay đăng bài viết của cửa hàng mình lên tràng chủ, người quản lý có thêm thêm nhân viên giao hàng vào các đơn hàng mà phương thức vận chuyển là COD, người quản lý có thể xem doanh thu bán hàng.  
- \item Nhân viên quản lý của hàng: Chỉ có thế xem và sửa thông tin các sản phầm để cập nhật nhanh chóng lên trang chủ phục vụ nhu cầu của khách hàng.
+ \item Người quản trị: Có mọi quyền để tương tác trong hệ thống, người quản trị có thể thay đổi bất kì thông tin của sản phẩm hay đăng bài viết của cửa hàng mình lên trang chủ, người quản lý có thêm nhân viên giao hàng vào các đơn hàng mà phương thức vận chuyển là COD, người quản lý có thể xem doanh thu bán hàng.  
+ \item Nhân viên quản lý cửa hàng: Chỉ có thể xem và sửa thông tin các sản phẩm để cập nhật nhanh chóng lên trang chủ phục vụ nhu cầu của khách hàng.
  \item Người vận chuyển hàng: Chỉ được xem hoá đơn theo trạng thái COD và vận chuyển hàng theo đơn hàng đã được giao trong hệ thống.
- \item Khách hàng: Khách hàng chỉ được phép truy cập ở trang chủ còn trang quản trị thì họ không có quyền gì, khách hàng có thể đăng kí, đăng nhập, và thay đổi thông tin tài khoản để mua hàng, họ cũng có thể gửi những đóng góp cho người quản trị để phát triền website hơn nữa.
+ \item Khách hàng: Khách hàng chỉ được phép truy cập ở trang chủ còn trang quản trị thì họ không có quyền gì, khách hàng có thể đăng kí, đăng nhập, và thay đổi thông tin tài khoản để mua hàng, họ cũng có thể gửi những đóng góp cho người quản trị để phát triển website hơn nữa.
 \end{itemize}  
 \subsubsection{Yêu cầu phi chức năng}
 Ngoài các yêu cầu chức năng hệ thống còn có những yêu cầu phi chức năng sau:
 \begin{itemize}
-\item Hệ thồng có dung lượng không quá lớn, tốc độ xử lý nhanh hơn.
+\item Hệ thống có dung lượng không quá lớn, tốc độ xử lý nhanh hơn.
 \item Công việc thực hiện chính xác.
 \item Sử dụng mã hoá các thông tin nhạy cảm của khách hàng như: mật khẩu, ngày sinh nhật, số điện thoại,...
 \item Đảm bảo an toàn dữ liệu khi chạy website trực tuyến
@@ -28,7 +28,7 @@ Ngoài các yêu cầu chức năng hệ thống còn có những yêu cầu phi
 \subsection{Sơ đồ tổng quan hệ thống}
 Hệ thống website bao gồm:
 \begin{itemize}
-    \item Cơ sở dữ liệu là một tập hợp những thông tin được tổ chức để dễ dàng trong việc tạo lập, cập nhập và khai thác thông tin. Cơ sở dữ liệu được duy trì dưới dạng một tập hợp các tập tin trong hệ điều hành hay được lưu trữ trong các hệ quản trị cơ sở dữ liệu. Cơ sở dữ liệu được phân chia thành nhiều loại khác nhau:
+    \item Cơ sở dữ liệu là một tập hợp những thông tin được tổ chức để dễ dàng trong việc tạo, cập nhập và khai thác thông tin. Cơ sở dữ liệu được duy trì dưới dạng một tập hợp các tập tin trong hệ điều hành hay được lưu trữ trong các hệ quản trị cơ sở dữ liệu. Cơ sở dữ liệu được phân chia thành nhiều loại khác nhau:
    \begin{itemize}
    \item Cơ sở dữ liệu dạng file: dữ liệu được lưu trữ dưới dạng các file có thể là text, ascii,...
    \item Cơ sở dữ liệu quan hệ: dữ liệu được lưu trữ trong các bảng dữ liệu gọi là các thực thể, giữa các thực thể này có mối liên hệ với nhau gọi là các quan hệ, mỗi quan hệ có các thuộc tính, trong đó có một thuộc tính là khóa chính. Các hệ quản trị hỗ trợ cơ sở dữ liệu quan hệ như: MS SQL server, Oracle, MySQL...
@@ -177,7 +177,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  \\
  \hline
 \end{longtable}
-
+\newpage
 \begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.6\linewidth}|}
  \caption{Bảng Use-Case sửa tài khoản \label{long}}\\
  \hline
@@ -196,7 +196,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  Hậu điều kiện & Thông tin tài khoản sau khi sửa được cập nhật vào cơ sở dữ liệu\\
  \hline
  Luồng sự kiện chính & 
- 1. Quản trị viên chọn 1 tài khoản.
+ 1. Quản trị viên chọn 1 tài khoản.\newline
  2. Quản trị viên kích hoạt yêu cầu sửa tài khoản.\newline
  3. Hệ thống hiển thị giao diện sửa tài khoản và những thông tin tài khoản đã được chọn, yêu cầu quản trị viên sửa tài khoản.\newline
  4. Quản trị viên nhâp thông tin tài khoản mới và nhấn lưu tài khoản.\newline
@@ -211,7 +211,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
   2. Quay lại bước 2 của luồng sự kiện chính.\newline
   - Không có quyền thực hiện chức năng:\newline
   1. Hệ thống kiểm tra lúc đăng nhập tài khoản không có quyền thực hiện chức năng.\newline
-  2. Trên thanh chức năng không có chức năng sửa tài khoảm
+  2. Trên thanh chức năng không có chức năng sửa tài khoản
  \\
  \hline
 \end{longtable}
@@ -246,7 +246,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  Luồng sự kiện phụ & 
  - Không có quyền thực hiện chức năng:\newline
   1. Hệ thống kiểm tra lúc đăng nhập tài khoản không có quyền thực hiện chức năng.\newline
-  2. Trên thanh chức năng không có chức năng xoá tài khoảm
+  2. Trên thanh chức năng không có chức năng xoá tài khoản
  \\
  \hline
 \end{longtable}
@@ -318,7 +318,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  \hline
  Luồng sự kiện phụ & 
  - Dữ liệu không đúng:\newline
-  1. Hệ thống hiển thị lại giao diện nhập thông tin sản phẩm để quản trị viên nhập lại đồng thời hiện thị thông báo lưu sản phẩm không thành công.\newline
+  1. Hệ thống hiển thị lại giao diện nhập thông tin sản phẩm để quản trị viên nhập lại đồng thời hiển thị thông báo lưu sản phẩm không thành công.\newline
   2. Quay lại bước 2 của luồng sự kiện chính.\newline
   - Không có quyền thực hiện chức năng:\newline
   1. Hệ thống kiểm tra lúc đăng nhập tài khoản không có quyền thực hiện chức năng.\newline
@@ -326,7 +326,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  \\
  \hline
 \end{longtable}
-
+\newpage
 \begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.6\linewidth}|}
  \caption{Bảng Use-Case xoá sản phẩm \label{long}}\\
  \hline
@@ -345,7 +345,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  Hậu điều kiện & Thông tin sản phẩm sau khi xoá được cập nhật vào cơ sở dữ liệu\\
  \hline
  Luồng sự kiện chính & 
- 1. Quản trị viên chọn 1 trong số sản phẩm cần xoá trong danh sách sản phẩm.
+ 1. Quản trị viên chọn 1 trong số sản phẩm cần xoá trong danh sách sản phẩm.\newline
  2. Quản trị viên kích hoạt yêu cầu xoá sản phẩm.\newline
  3. Hệ thống hiển thị giao diện xoá sản phẩm đồng thời hiển thị thông báo có muốn xoá hay không.\newline
  4. Quản trị viên chọn có.\newline
@@ -361,7 +361,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  \\
  \hline
 \end{longtable}
-
+\newpage
 - Quản lý danh mục sản phẩm:
 \begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.6\linewidth}|}
  \caption{Bảng Use-Case thêm danh mục sản phẩm \label{long}}\\
@@ -370,7 +370,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  \hline
  Tên Use-Case & Thêm danh mục sản phẩm \\
  \hline
- Mô tả & Use-case cho phép quản trị viên thêm danh mục sản phẩm để của hàng có thể bán nhiều mặt hàng\\
+ Mô tả & Use-case cho phép quản trị viên thêm danh mục sản phẩm để cửa hàng có thể bán nhiều mặt hàng\\
  \hline
  Tên tác nhân & Quản trị viên\\
  \hline
@@ -383,7 +383,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  Luồng sự kiện chính & 
  1. Quản trị viên kích hoạt yêu cầu thêm danh mục sản phẩm.\newline
  2. Hệ thống hiển thị giao diện thêm danh mục sản phẩm và yêu cầu quản trị viên nhập thông tin sản phẩm.\newline
- 3. Quản trị viên nhâp thông tin sản phẩm mới bao gồm: tên danh mục, tải ảnh mô tả danh mục sản phẩm,... và nhấn lưu sản phẩm.\newline
+ 3. Quản trị viên nhập thông tin sản phẩm mới bao gồm: tên danh mục, tải ảnh mô tả danh mục sản phẩm,... và nhấn lưu sản phẩm.\newline
  4. Hệ thống kiểm tra thông tin danh mục sản phẩm và xác nhận hợp lệ.\newline
  5. Hệ thống thông báo đã lưu thành công danh mục sản phẩm.\newline	
  6. Quản trị viên thoát khỏi chức năng thêm danh mục sản phẩm.
@@ -418,10 +418,10 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  Hậu điều kiện & Thông tin danh mục sản phẩm sau khi sửa được cập nhật vào cơ sở dữ liệu\\
  \hline
  Luồng sự kiện chính & 
- 1. Quản trị viên chọn 1 trong số danh mục sản phẩm cần sửa trong danh sách danh mục sản phẩm.
+ 1. Quản trị viên chọn 1 trong số danh mục sản phẩm cần sửa trong danh sách danh mục sản phẩm.\newline
  2. Quản trị viên kích hoạt yêu cầu sửa danh mục sản phẩm.\newline
  3. Hệ thống hiển thị giao diện sửa danh mục sản phẩm đồng thời hiển thị các thông tin của danh mục sản phẩm được chọn và yêu cầu quản trị viên nhập thông tin danh mục sản phẩm cần sửa.\newline
- 4. Quản trị viên nhâp thông tin sản phẩm mới bao gồm: tên danh mục, ảnh mô tả, danh mục cha,... và nhấn lưu danh mục sản phẩm.\newline
+ 4. Quản trị viên nhập thông tin danh mục sản phẩm cần sửa và nhấn lưu danh mục sản phẩm.\newline
  5. Hệ thống kiểm tra thông tin danh mục sản phẩm và xác nhận hợp lệ.\newline
  6. Hệ thống thông báo đã lưu thành công danh mục sản phẩm.\newline	
  7. Quản trị viên thoát khỏi chức năng sửa danh mục sản phẩm.
@@ -429,7 +429,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  \hline
  Luồng sự kiện phụ & 
  - Dữ liệu không đúng:\newline
-  1. Hệ thống hiển thị lại giao diện nhập thông tin sản phẩm để quản trị viên nhập lại đồng thời hiện thị thông báo lưu danh mục sản phẩm không thành công.\newline
+  1. Hệ thống hiển thị lại giao diện nhập thông tin sản phẩm để quản trị viên nhập lại đồng thời hiển thị thông báo lưu danh mục sản phẩm không thành công.\newline
   2. Quay lại bước 2 của luồng sự kiện chính.\newline
   - Không có quyền thực hiện chức năng:\newline
   1. Hệ thống kiểm tra lúc đăng nhập tài khoản không có quyền thực hiện chức năng.\newline
@@ -456,7 +456,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  Hậu điều kiện & Thông tin danh mục sản phẩm sau khi xoá được cập nhật vào cơ sở dữ liệu\\
  \hline
  Luồng sự kiện chính & 
- 1. Quản trị viên chọn 1 trong số danh mục sản phẩm cần xoá trong danh sách danh mục sản phẩm.
+ 1. Quản trị viên chọn 1 trong số danh mục sản phẩm cần xoá trong danh sách danh mục sản phẩm.\newline
  2. Quản trị viên kích hoạt yêu cầu xoá danh mục sản phẩm.\newline
  3. Hệ thống hiển thị giao diện xoá danh mục sản phẩm đồng thời hiển thị thông báo có muốn xoá hay không.\newline
  4. Quản trị viên chọn có.\newline
@@ -493,7 +493,7 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  \hline
  Luồng sự kiện chính & 
  1. Quản trị viên kích hoạt yêu cầu xem đơn hàng.\newline
- 2. Hệ thống xử lý và thực hiện truy vần dữ liệu từ cơ sở dữ liệu gửi lên màn hình người dùng.\newline
+ 2. Hệ thống xử lý và thực hiện truy vấn dữ liệu từ cơ sở dữ liệu gửi lên màn hình người dùng.\newline
  3. Hệ thống hiển thị các đơn hàng đã có từ cơ sở dữ liệu lên màn hình người dùng.\newline	
  4. Quản trị viên thoát khỏi chức năng xem đơn hàng.
  \\
@@ -527,8 +527,8 @@ Từ Hình \ref{refhinh3_2} ta có các bảng đặc tả chi tiết cho các U
  1. Quản trị viên chọn một đơn hàng cần giao đến người vận chuyển.\newline
  2. Hệ thống hiển thị giao diện sửa đơn hàng đồng thời hiển thị các thông tin của đơn hàng được chọn và yêu cầu quản trị viên nhập thông tin đơn hàng cần sửa.\newline
  3. Quản trị viên nhập thông tin đơn hàng cần sửa đặc biệt là thông tin đến người vận chuyển.\newline	
- 4. Hệ thống kiểm tra thông tin đơn hàng và xác nhận hợp lệ.
- 5. Hệ thống xử lý và thông báo lưu thành công đơn hàng.
+ 4. Hệ thống kiểm tra thông tin đơn hàng và xác nhận hợp lệ.\newline
+ 5. Hệ thống xử lý và thông báo lưu thành công đơn hàng.newlinenewline\newline
  6. Quản trị viên thoát khỏi chắc năng sửa đơn hàng.
  \\
  \hline
@@ -563,18 +563,18 @@ Từ Hình \ref{refhinh3_3} ta có các bảng đặc tả chi tiết cho các U
  \hline
  Tên Use-Case & Đăng nhập \\
  \hline
- Mô tả & Use-case cho phép khách hàng đăng nhập vào trang chủ để thưc hiện việc mua bán theo như cầu khách hàng\\
+ Mô tả & Use-case cho phép khách hàng đăng nhập vào trang chủ để thực hiện việc mua bán theo nhu cầu khách hàng\\
  \hline
  Tên tác nhân & Khách hàng\\
  \hline
- Điều kiện kích hoạt & Khách hàng vào trang chủ và nhận nút đăng nhập\\
+ Điều kiện kích hoạt & Khách hàng vào trang chủ và nhấn nút đăng nhập\\
  \hline
  Tiền điều kiện & Khách hàng đã đăng ký tài khoản trên hệ thống\\
  \hline
  Hậu điều kiện & Khách hàng đăng nhập thành công\\
  \hline
  Luồng sự kiện chính & 
-  1. Hệ thống hiện thị màn hình đăng nhập.\newline
+  1. Hệ thống hiển thị màn hình đăng nhập.\newline
   2. Khách hàng nhập tên đăng nhập và mật khẩu.\newline
   3. Hệ thống kiểm tra thông tin đăng nhập.\newline
   4. Nếu thành công hệ thống sẽ đưa khách hàng về trang chủ.\newline
@@ -609,7 +609,7 @@ Từ Hình \ref{refhinh3_3} ta có các bảng đặc tả chi tiết cho các U
  Hậu điều kiện & Tìm kiếm được kết quả về sản phẩm\\
  \hline
  Luồng sự kiện chính & 
-  1. Hệ thống hiện thị ô tìm kiếm và yêu cầu người dùng nhập dữ liệu cần tìm kiếm.\newline
+  1. Hệ thống hiển thị ô tìm kiếm và yêu cầu người dùng nhập dữ liệu cần tìm kiếm.\newline
   2. Khách hàng nhập dữ liệu cần tìm kiếm.\newline
   3. Hệ thống kiểm tra dữ liệu cần tìm kiếm và sẽ đưa ra gợi ý cho người dùng theo từng kí tự người dùng nhập vào.\newline
   4. Khách hàng lựa chọn 1 sản phẩm đúng theo ý khách hàng dựa trên các gợi ý mà hệ thống đã đưa ra\newline
@@ -636,14 +636,14 @@ Từ Hình \ref{refhinh3_3} ta có các bảng đặc tả chi tiết cho các U
  \hline
  Tên tác nhân & Khách hàng\\
  \hline
- Điều kiện kích hoạt & Khách hàng truy cập vào trang chủ và nhấn vào nút giỏ hàng để tiên hàng đặt hàng \\
+ Điều kiện kích hoạt & Khách hàng truy cập vào trang chủ và nhấn vào nút giỏ hàng để tiến hành đặt hàng \\
  \hline
  Tiền điều kiện & Khách hàng truy cập vào trang chủ và đã đăng nhập vào trang chủ\\
  \hline
  Hậu điều kiện & Thông tin đơn hàng được lưu xuống cơ sở dữ liệu\\
  \hline
  Luồng sự kiện chính & 
-  1. Hệ thống hiện thị giao diện đặt hàng và yêu cầu người dùng nhập thông tin đặt hàng.\newline
+  1. Hệ thống hiển thị giao diện đặt hàng và yêu cầu người dùng nhập thông tin đặt hàng.\newline
   2. Khách hàng nhập thông tin đặt hàng .\newline
   3. Hệ thống kiểm tra thông tin đơn hàng và xác nhận hợp lệ.\newline
   4. Hệ thống thông báo đã đặt hàng thành công và đưa khách hàng về trang đơn hàng của tài khoản đang được đăng nhập\newline
@@ -693,7 +693,7 @@ Từ Hình \ref{refhinh3_3} ta có các bảng đặc tả chi tiết cho các U
  Luồng sự kiện phụ & 
  - Khách hàng nhập sai tài khoản ngân lượng:\newline
  1. Khi khách hàng nhập sai tên đăng nhập và mật khẩu.\newline
- 2. Hệ thống ngân lượng sẽ hiển thị lại màn hình đăng nhập đồng thời hiển thị thông báo đăng nhập không thành công 
+ 2. Hệ thống ngân lượng sẽ hiển thị lại màn hình đăng nhập đồng thời hiển thị thông báo đăng nhập không thành công.\newline
   Quay lại bước 3 trong luồng sự kiện chính.
  \\
  \hline
@@ -709,7 +709,7 @@ Từ Hình \ref{refhinh3_3} ta có các bảng đặc tả chi tiết cho các U
     \label{refhinh3_4}
     \end{figure}
 \end{center}
-Hình \ref{refhinh3_4} là use case tổng quan của nhân viên quản lý, nhân viên quản lý trong hệ thống chỉ được phép thêm và xem sản phẩm cũng như xem hoá đơn để xác nhận đơn hàng giúp chủ cửa hàng. Đặc tả chi tiết của use case nhân viên quản lý được thể hiện ở các bảng sau:
+Hình \ref{refhinh3_4} là use case tổng quan của nhân viên quản lý. Nhân viên quản lý trong hệ thống chỉ được phép thêm và xem sản phẩm cũng như xem hoá đơn để xác nhận đơn hàng giúp chủ cửa hàng. Đặc tả chi tiết của use case nhân viên quản lý được thể hiện ở các bảng sau:
 \begin{itemize}
 \item Đăng nhập được thể hiện ở Bảng \ref{login}
 \item Đăng xuất được thể hiện ở Bảng \ref{logout}
@@ -727,7 +727,7 @@ Hình \ref{refhinh3_4} là use case tổng quan của nhân viên quản lý, nh
     \label{refhinh3_5}
     \end{figure}
 \end{center}
-Hình \ref{refhinh3_5} là use case tổng quan của người vận chuyển, người vận chuyển trong hệ thống chỉ được phép xem hoá đơn để xme những đơn hàng nào cần giao hàng. Đặc tả chi tiết của use case người vận chuyển được thể hiện ở các bảng sau:
+Hình \ref{refhinh3_5} là use case tổng quan của người vận chuyển, người vận chuyển trong hệ thống chỉ được phép xem hoá đơn để xem những đơn hàng nào cần giao hàng. Đặc tả chi tiết của use case người vận chuyển được thể hiện ở các bảng sau:
 \begin{itemize}
 \item Đăng nhập được thể hiện ở Bảng \ref{login}
 \item Đăng xuất được thể hiện ở Bảng \ref{logout}
@@ -817,7 +817,7 @@ Từ các phân tích yêu cầu hệ thống tới các sơ đồ tổng quan, 
 Bước 1: Xác định các thực thể và liên kết giữa các thực thể 
 \begin{itemize}
 \item Một người dùng có nhiều nhóm quyền và một nhóm quyền được gán cho nhiều người dùng khác nhau nên quan hệ người dùng và nhóm quyền là quan hệ nhiều nhiều (n-n).
-\item Mộ người dúng có nhiều thông báo nên quan hệ người dùng và thông báo là quan hệ 1 nhiều (1-n).
+\item Một người dùng có nhiều thông báo nên quan hệ người dùng và thông báo là quan hệ 1 nhiều (1-n).
 \item Một thông báo gửi đến nhiều người dùng nên quan hệ giữa thông báo và thông báo đến người dùng là 1 nhiều (1-n).
 \item Một nhóm quyền có nhiều quyền trong chức năng và 1 chức năng được gán vào nhiều nhóm quyền nên quan hệ giữa nhóm quyền và chức năng là quan hệ nhiều nhiều (n-n).
 \end{itemize}
@@ -901,7 +901,7 @@ Bước 3: Xác định các thuộc tính của các thực thể và thiết k
  \hline
   Name&nvarchar(128)&Tên chức năng\\
  \hline
-  URL&nvarchar(250)&Link truy cập đến chức năng trong hệ thông\\
+  URL&nvarchar(250)&Link truy cập đến chức năng trong hệ thống\\
  \hline
   ParentId&nvarchar(128)& Chức năng cha\\
  \hline
@@ -934,7 +934,7 @@ Bước 3: Xác định các thuộc tính của các thực thể và thiết k
   CanDelete&bit&Quyền xoá\\
  \hline
 \end{longtable}
-
+\newpage
 - Bảng thông báo:
 \begin{longtable}[htp]{ |m{0.3\linewidth}|m{0.3\linewidth}|m{0.4\linewidth}|}
  \caption{Bảng thông báo hệ thống \label{database}}\\
@@ -978,7 +978,7 @@ Bước 1: Xác định các thực thể và liên kết giữa các thực th�
 \par 
 Ta có thể thấy nhóm cơ sở dữ liệu thương mại điện tử sẽ gồm 2 thực thể lớn đó là: sản phẩm và hoá đơn nên em cũng từ 2 thực thể chính này để tập trung xây dựng cơ sở dữ liệu cho nhóm cơ sở dữ liệu thương mại điện tử
 \begin{itemize}
-\item Sản phẩm có rất nhiều thuộc tính xung quanh nó như là: danh mục sản phẩm, ảnh sản phẩm, số lượng sản phẩm, màu sắc sản phẩm, kích cỡ sản phẩm, giá bán sỉ. Tất cả các thuộc tính trên có quan hẹ nhiều một với sản phẩm hay nói cách khác là sản phẩm có quan hệ một nhiều với các thuộc tính trên.
+\item Sản phẩm có rất nhiều thuộc tính xung quanh nó như là: danh mục sản phẩm, ảnh sản phẩm, số lượng sản phẩm, màu sắc sản phẩm, kích cỡ sản phẩm, giá bán sỉ. Tất cả các thuộc tính trên có quan hệ nhiều một với sản phẩm hay nói cách khác là sản phẩm có quan hệ một nhiều với các thuộc tính trên.
 \item Một người dùng có nhiều đơn hàng nên quan hệ giữa người dùng và đơn hàng là quan hệ một nhiều (1-n).
 \item Một người vận chuyển có nhiều đơn hàng nên quan hệ giữa người vận chuyển và đơn hàng là quan hệ một nhiều (1-n).
 \item Một sản phẩm có trong nhiều đơn hàng và 1 đơn hàng cũng có nhiều sản phẩm nên quan hệ giữa đơn hàng và sản phẩm là quan hệ nhiều nhiều (n-n). 
@@ -1011,7 +1011,7 @@ Bước 3: Xác định các thuộc tính của các thực thể và thiết k
  \hline 
  Price&decimal(18,2)&Giá sản phẩm\\
 \hline
- PromotionPrice&decimal(18,2)&Giá khuyển mại\\
+ PromotionPrice&decimal(18,2)&Giá khuyến mại\\
 \hline
  OriginalPrice&decimal(18,2)&Giá gốc\\
  \hline
@@ -1074,7 +1074,7 @@ HomeOrder&int&Thứ thự sắp xếp trên trang chủ\\
 \hline
 Image&nvarchar(max)&Hình ảnh danh mục sản phẩm\\
 \hline
-HomeFlag&bit&Hiển thị trang chỉ\\
+HomeFlag&bit&Hiển thị trang chủ\\
 \hline
 DateCreated&datetime2(7)&Ngày tạo\\
 \hline
@@ -1276,7 +1276,7 @@ Nhóm cơ sở dữ liệu tiện ích dùng để lưu thông tin tiện ích g
 \end{center}
 
 \section{Kết luận}
-Sau khi đã phân tích và thiết kế xây dựng cơ sở dữ liệu hệ thống website thương mại điện tử một cách kỹ lượng, các chức năng sẽ được triển khai theo mô hình 3 lớp và các design pattern được nhiều lập trình viên sử dụng. Quá trình triển khai hệ thống và kiểm thử cũng như kết quả sẽ được mô tả ở Chương \ref{chapter4}. 
+Sau khi đã phân tích và thiết kế xây dựng cơ sở dữ liệu hệ thống website thương mại điện tử một cách kỹ lưỡng, các chức năng sẽ được triển khai theo mô hình 3 lớp và các design pattern được nhiều lập trình viên sử dụng. Quá trình triển khai hệ thống và kiểm thử cũng như kết quả sẽ được mô tả ở Chương \ref{chapter4}. 
 
 
 
