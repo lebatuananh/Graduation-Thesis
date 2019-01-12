@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.9)  9 JAN 2019 10:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.9)  12 JAN 2019 10:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1935,7 +1935,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--11
  []
 
 
-Underfull \vbox (badness 10000) detected at line 15
+Underfull \hbox (badness 3954) in paragraph at lines 13--14
+\T5/cmr/m/n/13 tr¼nh trung gian cho .NET
+ []
+
+
+Overfull \hbox (13.94774pt too wide) in alignment at lines 9--27
+ [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 27
  []
 
 ) [16
@@ -2626,15 +2636,6 @@ File: image/E-REcomerce.pdf Graphic file (type pdf)
 Package pdftex.def Info: image/E-REcomerce.pdf  used on input line 990.
 (pdftex.def)             Requested size: 413.3093pt x 274.69638pt.
 
-Underfull \hbox (badness 1895) in paragraph at lines 1008--1009
-[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
- []
-
-
-Overfull \hbox (37.59995pt too wide) in alignment at lines 999--1039
- [] [] [] 
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
@@ -2642,6 +2643,25 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [64 <./image/E-REcomerce.pdf>]
+Underfull \hbox (badness 1895) in paragraph at lines 1009--1010
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1000--1040
+ [] [] [] 
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1040--1045
+ [] [] [] 
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1047--1058
+ [] [] [] 
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
@@ -2649,12 +2669,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [65]
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1039--1044
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1061--1096
  [] [] [] 
  []
 
 
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1046--1057
+Underfull \hbox (badness 1895) in paragraph at lines 1106--1107
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1099--1112
  [] [] [] 
  []
 
@@ -2665,17 +2690,42 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [66]
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1060--1095
- [] [] [] 
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 1105--1106
+Underfull \hbox (badness 1895) in paragraph at lines 1122--1123
 []|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
  []
 
 
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1098--1111
+Underfull \hbox (badness 1895) in paragraph at lines 1124--1125
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1126--1127
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1115--1130
+ [] [] [] 
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1133--1144
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1154--1155
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1156--1157
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1147--1158
  [] [] [] 
  []
 
@@ -2686,42 +2736,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [67]
-Underfull \hbox (badness 1895) in paragraph at lines 1121--1122
-[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 1123--1124
-[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 1125--1126
-[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
- []
-
-
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1114--1129
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1161--1182
  [] [] [] 
  []
 
 
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1132--1143
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1185--1194
  [] [] [] 
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 1153--1154
+Underfull \hbox (badness 1895) in paragraph at lines 1204--1205
 []|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 1155--1156
-[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
- []
-
-
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1146--1157
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1197--1212
  [] [] [] 
  []
 
@@ -2732,22 +2762,42 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [68]
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1160--1181
- [] [] [] 
- []
-
-
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1184--1193
- [] [] [] 
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 1203--1204
+Underfull \hbox (badness 1895) in paragraph at lines 1240--1241
 []|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
  []
 
 
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1196--1211
+Underfull \hbox (badness 1895) in paragraph at lines 1242--1243
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1215--1244
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1254--1255
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1256--1257
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1262--1263
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1264--1265
+[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
+ []
+
+
+Overfull \hbox (37.59995pt too wide) in alignment at lines 1247--1266
  [] [] [] 
  []
 
@@ -2758,56 +2808,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [69]
-Underfull \hbox (badness 1895) in paragraph at lines 1239--1240
-[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 1241--1242
-[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
- []
-
-
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1214--1243
- [] [] [] 
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 1253--1254
-[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 1255--1256
-[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 1261--1262
-[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 1263--1264
-[]|\T5/cmr/m/n/13 Kho¡ ngo¤i tham chi¸u ^^_¸n
- []
-
-
-Overfull \hbox (37.59995pt too wide) in alignment at lines 1246--1265
- [] [] [] 
- []
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 17.97173pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[70]
-<image/E-RUtil.pdf, id=1138, 544.19307pt x 261.61742pt>
+<image/E-RUtil.pdf, id=1134, 544.19307pt x 261.61742pt>
 File: image/E-RUtil.pdf Graphic file (type pdf)
 <use image/E-RUtil.pdf>
-Package pdftex.def Info: image/E-RUtil.pdf  used on input line 1271.
+Package pdftex.def Info: image/E-RUtil.pdf  used on input line 1272.
 (pdftex.def)             Requested size: 380.93254pt x 183.13092pt.
 
 
@@ -2816,22 +2820,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[71 <./image/E-RUtil.pdf>]) (./chapter4.tex
+[70 <./image/E-RUtil.pdf>]) (./chapter4.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[72]
+[71]
 Ch\uhorn \ohorn ng 4.
-[73
+[72
 
 ]
 
 pdfTeX warning: pdflatex (file ./image/MohinhDuongDiDuLieu.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<image/MohinhDuongDiDuLieu.pdf, id=1165, 822.07124pt x 252.945pt>
+<image/MohinhDuongDiDuLieu.pdf, id=1160, 822.07124pt x 252.945pt>
 File: image/MohinhDuongDiDuLieu.pdf Graphic file (type pdf)
 <use image/MohinhDuongDiDuLieu.pdf>
 Package pdftex.def Info: image/MohinhDuongDiDuLieu.pdf  used on input line 14.
@@ -2847,7 +2851,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[74 <./image/MohinhDuongDiDuLieu.pdf>]
+[73 <./image/MohinhDuongDiDuLieu.pdf>]
 Underfull \hbox (badness 4927) in paragraph at lines 48--48
 []|\T5/cmr/m/n/13 Dú li»u nhªp
  []
@@ -2938,7 +2942,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[75]
+[74]
 Underfull \hbox (badness 4927) in paragraph at lines 66--66
 []|\T5/cmr/m/n/13 Dú li»u nhªp
  []
@@ -3189,14 +3193,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[76]
+[75]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[77]
+[76]
 Underfull \hbox (badness 4927) in paragraph at lines 110--110
 []|\T5/cmr/m/n/13 Dú li»u nhªp
  []
@@ -3397,15 +3401,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[78]
+[77]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[79]
-<image/danhsachTK.png, id=1216, 1026.83624pt x 548.80031pt>
+[78]
+<image/danhsachTK.png, id=1211, 1026.83624pt x 548.80031pt>
 File: image/danhsachTK.png Graphic file (type png)
 <use image/danhsachTK.png>
 Package pdftex.def Info: image/danhsachTK.png  used on input line 143.
@@ -3415,7 +3419,7 @@ Overfull \hbox (21.0543pt too wide) in paragraph at lines 143--144
  [] 
  []
 
-<image/themTK.png, id=1218, 1017.04968pt x 547.2947pt>
+<image/themTK.png, id=1213, 1017.04968pt x 547.2947pt>
 File: image/themTK.png Graphic file (type png)
 <use image/themTK.png>
 Package pdftex.def Info: image/themTK.png  used on input line 154.
@@ -3428,7 +3432,7 @@ Overfull \hbox (16.65039pt too wide) in paragraph at lines 154--155
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/themSanpham.png, id=1219, 1027.58907pt x 550.30594pt>
+<image/themSanpham.png, id=1214, 1027.58907pt x 550.30594pt>
 File: image/themSanpham.png Graphic file (type png)
 <use image/themSanpham.png>
 Package pdftex.def Info: image/themSanpham.png  used on input line 164.
@@ -3441,7 +3445,7 @@ Overfull \hbox (21.39308pt too wide) in paragraph at lines 164--165
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/danhsachSP.png, id=1220, 1026.83624pt x 550.30594pt>
+<image/danhsachSP.png, id=1215, 1026.83624pt x 550.30594pt>
 File: image/danhsachSP.png Graphic file (type png)
 <use image/danhsachSP.png>
 Package pdftex.def Info: image/danhsachSP.png  used on input line 174.
@@ -3454,7 +3458,7 @@ Overfull \hbox (21.0543pt too wide) in paragraph at lines 174--175
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<image/trangchu.png, id=1221, 1027.58907pt x 548.0475pt>
+<image/trangchu.png, id=1216, 1027.58907pt x 548.0475pt>
 File: image/trangchu.png Graphic file (type png)
 <use image/trangchu.png>
 Package pdftex.def Info: image/trangchu.png  used on input line 184.
@@ -3467,22 +3471,22 @@ Overfull \hbox (21.39308pt too wide) in paragraph at lines 184--185
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./Tongketdoan.tex [80 <./image/danhsachTK.png>]
+) (./Tongketdoan.tex [79 <./image/danhsachTK.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[81 <./image/themTK.png> <./image/themSanpham.png>]
+[80 <./image/themTK.png> <./image/themSanpham.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97173pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[82 <./image/danhsachSP.png> <./image/trangchu.png>]) (./Tailieuthamkhao.tex
-[83
+[81 <./image/danhsachSP.png> <./image/trangchu.png>]) (./Tailieuthamkhao.tex
+[82
 
 ]
 
@@ -3491,7 +3495,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[84]
+[83]
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 []\T5/cmr/m/n/13 ^^PIntroduction - The com-plete C# tu-to-rial.^^Q [On-line]. A
 vail-able:
@@ -3511,7 +3515,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
- [85
+ [84
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
@@ -3531,8 +3535,8 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 30917 strings out of 492982
- 505126 string characters out of 6134897
+ 30916 strings out of 492982
+ 505119 string characters out of 6134897
  809256 words of memory out of 5000000
  33739 multiletter control sequences out of 15000+600000
  567022 words of font info for 103 fonts, out of 8000000 for 9000
@@ -3544,10 +3548,10 @@ r/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb></usr/share/texlive
 onts/type1/vntex/vnr/vncsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/vnt
 ex/vnr/vnr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnti12.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on DATN_2018.pdf (103 pages, 2343136 bytes).
+Output written on DATN_2018.pdf (102 pages, 2343295 bytes).
 PDF statistics:
- 1329 PDF objects out of 1440 (max. 8388607)
- 1060 compressed objects within 11 object streams
- 237 named destinations out of 1000 (max. 500000)
+ 1324 PDF objects out of 1440 (max. 8388607)
+ 1056 compressed objects within 11 object streams
+ 236 named destinations out of 1000 (max. 500000)
  25075 words of extra memory for PDF output out of 29859 (max. 10000000)
 
